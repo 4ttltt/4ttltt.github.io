@@ -1,8 +1,8 @@
-import Container from "./container";
-import Phone from "./phone";
-import Email from "./email";
-import Address from "./address";
-import MessageForm from "./messageForm";
+import Container from './container';
+import Phone from './phone';
+import Email from './email';
+import Address from './address';
+import MessageForm from './messageForm';
 
 export default function Contact() {
   const disable = true;

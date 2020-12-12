@@ -29,7 +29,7 @@ export default function Footer({ links }) {
         <div className="flex items-center justify-between w-full p-8 font-open-sans text-white text-sm flex-col md:flex-row">
           <div>
             <a
-              href="#"
+              href="tuthanhdelatoithuong.com"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-a1 transition-colors ease-linear duration-100 my-2 md:my-0 block"
