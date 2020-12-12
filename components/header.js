@@ -4,8 +4,8 @@ import Navigation from './navigation';
 
 export default function Header({ links }) {
   // eslint-disable-next-line import/no-unresolved
-  const webpSrc = require('../images/mike-wallis-head.jpg?webp');
-  const imgSrc = require('../images/mike-wallis-head.jpg');
+  const webpSrc = require('../images/DucPhat.jpg?webp');
+  const imgSrc = require('../images/DucPhat.jpg');
   return (
     <div className="w-screen">
       <Container>
@@ -17,17 +17,15 @@ export default function Header({ links }) {
                 <source srcSet={imgSrc} type="image/jpeg" />
                 <img
                   src={imgSrc}
-                  alt="Mike Wallis headshot"
+                  alt="Đức Phật"
                   className="h-full sm:ml-8 sm:pr-8"
                 />
               </picture>
             </div>
             <div className="w-10/12">
-              <h1 className="text-2xl sm:text-3xl font-light font-lato">Wallis Consultancy</h1>
+              <h1 className="text-2xl sm:text-3xl font-light font-lato">Tứ Thánh Đế</h1>
               <p className="text-gray-333 text-sm">
-                A
-                <em className="text-black"> personal </em>
-                service from a retired senior banker and family magistrate
+                Điều mà đức Phật muốn truyền dạy lại cho loài người
               </p>
             </div>
           </div>

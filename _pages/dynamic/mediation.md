@@ -1,7 +1,7 @@
 ---
 title: Areas of Mediation
 image: mediation.jpg
-navigation: true
+navigation: false
 footer: false
 ---
 The service is available for workplace mediation, neighbourhood mediation and family mediation. Mediation can be face to face or online using Zoom.

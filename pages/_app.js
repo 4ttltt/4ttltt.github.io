@@ -6,19 +6,19 @@ export default function MyApp({ Component, pageProps }) {
   return (
     <>
       <DefaultSeo
-        titleTemplate="%s | Wallis Consultancy"
-        description="Mike Wallis is an experienced personable professional who specialises in Mediation and Business Support."
+        titleTemplate="%s | Tứ Thánh Đế Là Tối Thượng"
+        description="Cung cấp những nội dung cốt lõi về Tứ Thánh Đế"
         openGraph={{
           type: 'website',
           locale: 'en_IE',
-          url: 'https://wallisconsultancy.co.uk/',
-          site_name: 'Wallis Consultancy',
+          url: 'http://tuthanhdelatoithuong.com',
+          site_name: 'Tứ Thánh Đế Là Tối Thượng',
           images: [
             {
-              url: 'https://wallisconsultancy.co.uk/images/mike-wallis2.png',
+              url: 'http://tuthanhdelatoithuong.com/images/ducphat.png',
               width: 296,
               height: 330,
-              alt: 'Mike Wallis',
+              alt: 'Đức Phật',
             },
           ],
         }}

@@ -18,6 +18,10 @@ import Container from './container';
 // ];
 
 export default function Footer({ links }) {
+  const isDisabled = true;
+  if (isDisabled) {
+    return null;
+  }
   const footerLinks = links.filter(({ footer }) => footer);
   return (
     <footer className="w-screen bg-black-27">
@@ -25,7 +29,7 @@ export default function Footer({ links }) {
         <div className="flex items-center justify-between w-full p-8 font-open-sans text-white text-sm flex-col md:flex-row">
           <div>
             <a
-              href="https://www.linkedin.com/in/mike-wallis-b82a9140/"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-a1 transition-colors ease-linear duration-100 my-2 md:my-0 block"

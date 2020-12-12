@@ -1,6 +1,6 @@
 ---
 title: Liên Hệ
-image: mike-wallis2.jpg
+image: DucPhat.png
 navigation: true
 footer: false
 ---

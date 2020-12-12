@@ -1,6 +1,6 @@
 ---
 title: Trang Chủ
-image: stress.jpg
+image: DucPhat.jpg
 navigation: true
 ---
 Trang "Tứ Thánh Đế" cung cấp hành giả hành trang
