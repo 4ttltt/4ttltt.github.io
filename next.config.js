@@ -32,8 +32,8 @@ module.exports = withPlugins([
     imagesPublicPath: '/4tdltt/_next/static/images/',
   }],
   {
-    assetPrefix: '/4tdltt',
-    basePath: '/4tdltt',
+    assetPrefix: '/4tdltt/',
+    basePath: '/4tdltt/',
     env,
   },
 ]);
