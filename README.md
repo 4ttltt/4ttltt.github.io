@@ -39,15 +39,4 @@ CAPTCHA_SITE_KEY="" # Google Captcha Site Key
 npm run build && npm run dev
 ```
 
-Thank for original clone source
-## Author
-
-👤 **James Wallis**
-
-* Website: wallis.dev
-* Github: [@james-wallis](https://github.com/james-wallis)
-* LinkedIn: [@jamesemwallis](https://linkedin.com/in/jamesemwallis)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+Original source of James Wallis
