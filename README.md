@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to wallisconsultancy.co.uk 👋</h1>
+<h1 align="center">Welcome to Tu Thanh de latoithuong.com 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img alt="Travis Build" src="https://travis-ci.com/james-wallis/wallisconsultancy.svg?token=DMsS4JoCUSe88oxSzNdL&branch=master" />
@@ -39,6 +39,7 @@ CAPTCHA_SITE_KEY="" # Google Captcha Site Key
 npm run build && npm run dev
 ```
 
+Thank for original clone source
 ## Author
 
 👤 **James Wallis**
@@ -50,6 +51,3 @@ npm run build && npm run dev
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

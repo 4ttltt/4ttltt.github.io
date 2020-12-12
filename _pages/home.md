@@ -1,20 +1,12 @@
 ---
-title: Home
+title: Trang Chủ
 image: stress.jpg
 navigation: true
 ---
-If you are in dispute do you want:
+Trang "Tứ Thánh Đế" cung cấp hành giả hành trang
 
-*  A day in court,
-*  Continued disagreement,
-*  Depression as a result of tensions
+*  Sach Tứ Thánh Đế là Tối Thượng
+*  Dieu Pháp Âm
+*  Nhung Bài Kinh Trong Nikaya
+*  Một số đoạn kinh trích theo chủ đề
 
-***Or***
-
-A mutually agreed solution with peace of mind and the potential for an improved relationship?
-
-My experience, particularily as a family magistrate, is that mediation is by far the better way.
-
-If you agree then let me try to mediate for you.
-
-[**Click here to find out where I can help**](/mediation)
