@@ -29,7 +29,7 @@ module.exports = withPlugins([
       strip: true,
       verbose: true,
     },
-    imagesPublicPath: '/4tdltt/_next/static/images/',
+    imagesPublicPath: '/_next/static/images/',
   }],
   {
     // basePath: '/4tdltt',
