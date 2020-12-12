@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: james-wallis/wallisconsultancy
+  repo: 4tdltt/4tdltt.github.io
   branch: master
 publish_mode: editorial_workflow
 media_folder: "/images"

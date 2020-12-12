@@ -9,7 +9,7 @@
 
 > Website for Wallis Consultancy - Written using Next.js and hosted on GitHub Pages
 
-### 🏠 [Homepage](https://wallisconsultancy.co.uk)
+### 🏠 [Homepage](http://tuthanhdelatoithuong.com)
 
 ## Details
 * Written in React.js with [Next.js](https://nextjs.org/) to generate static files.
