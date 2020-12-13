@@ -6,7 +6,7 @@ import PrintMarkdown from './markdown/printMarkdown';
 import WithImage from './markdown/withImage';
 
 export default function DynamicLayout({
-  slug, title, image, markdown, links,
+  slug, title, image, markdown, links, nomenu,
 }) {
   const canonical = join(process.env.CANONICAL_URL, slug);
   return (
@@ -20,8 +20,8 @@ export default function DynamicLayout({
         }}
       />
       {image
-        ? <WithImage markdown={markdown} image={image} />
-        : <PrintMarkdown markdown={markdown} />}
+        ? <WithImage markdown={markdown} showmenu={!nomenu} image={image} />
+        : <PrintMarkdown markdown={markdown} showmenu={!nomenu} />}
     </Layout>
   );
 }
@@ -31,6 +31,7 @@ DynamicLayout.propTypes = {
   slug: PropTypes.string.isRequired,
   image: PropTypes.string,
   markdown: PropTypes.string.isRequired,
+  nomenu: PropTypes.bool,
   links: PropTypes.arrayOf(PropTypes.exact({
     title: PropTypes.string,
     href: PropTypes.string,
@@ -41,4 +42,5 @@ DynamicLayout.propTypes = {
 
 DynamicLayout.defaultProps = {
   image: '',
+  nomenu: false,
 };

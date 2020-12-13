@@ -1,17 +1,24 @@
 import PropTypes from 'prop-types';
 import DynamicLayout from '../components/dynamicLayout';
-import { getDynamicPageContentBySlug, getAllDynamicPages } from '../lib/markdown';
+import {
+  getDynamicPageContentBySlug,
+  getAllDynamicPages,
+} from '../lib/markdown';
 import { getNavigationLinks } from '../lib/navigation';
 
 export default function DynamicPage({ page, links }) {
   const {
-    title,
-    image,
-    slug,
-    markdown,
+    title, image, slug, markdown,
   } = page;
   return (
-    <DynamicLayout title={title} image={image} slug={slug} markdown={markdown} links={links} />
+    <DynamicLayout
+      nomenu={links.nomenu}
+      title={title}
+      image={image}
+      slug={slug}
+      markdown={markdown}
+      links={links}
+    />
   );
 }
 
@@ -22,12 +29,15 @@ DynamicPage.propTypes = {
     image: PropTypes.string,
     markdown: PropTypes.string,
   }).isRequired,
-  links: PropTypes.arrayOf(PropTypes.exact({
-    title: PropTypes.string,
-    href: PropTypes.string,
-    navigation: PropTypes.bool,
-    footer: PropTypes.bool,
-  })).isRequired,
+  links: PropTypes.arrayOf(
+    PropTypes.exact({
+      title: PropTypes.string,
+      href: PropTypes.string,
+      navigation: PropTypes.bool,
+      footer: PropTypes.bool,
+      nomenu: PropTypes.bool,
+    }),
+  ).isRequired,
 };
 
 export async function getStaticProps({ params }) {

@@ -2,6 +2,7 @@
 title: Trang Chủ
 image: DucPhat.jpg
 navigation: false
+nomenu: true
 ---
 Trang "Tứ Thánh Đế" cung cấp hành giả hành trang
 
