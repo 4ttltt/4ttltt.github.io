@@ -34,7 +34,7 @@ Trình bày Lý duyên khởi vì sao chúng sanh đang có mặt trong hiện t
 [**Chương một : Nghiệp cũ.**](/sach4td-c1)  
 Chương này bàn về những hành động đã tạo trong kiếp trước vi vô minh nên mới thành hình kiếp sống hiện tại bằng những vật chất rất vi tế mà mắt thường không thấy kết hợp với Danh (tâm) kết thành một sự sống gọi là bào thai và phát triển thành một con người có đầy đủ .
 
-**Chương hai : Quả khổ hiện tại.**  
+[**Chương hai : Quả khổ hiện tại.**](/sach4td-c2)  
 Chương hai bàn về những quả khổ/quả lạc, giàu sang/nghèo hèn,sống lâu/chết yểu v.v.. trong kiếp sống hiện tại không phải ngẫu nhiên mà có .Tất cả những gì xảy ra với chúng ta đều phát xuất từ những nghiệp hay hành động đã tạo từ quá khứ,bây giờ trổ thành quả.Làm sao biết được là nhờ Đức Phật Gotama có Tam minh thấy và biết nói lại cho chúng ta biết .Tuy nhiên bất cứ ai đó nếu muốn có thể tu chứng được Tứ thiền sẽ thấy nhiều kiếp trước của mình và sẽ thấy được chúng sanh đang đau khổ ở địa ngục và cũng thấy chúng sanh đang hưởng hạnh phúc các cõi trời.Tiếc thay cho loài người có nhiều dục quá không thể nào tu chứng được Tứ thiền.
 
 **Chương ba : Nghiệp mới.**  

@@ -17,7 +17,7 @@ Bởi **Võ Thế Hoà.**
 
 [**Chương một : Nghiệp cũ.**](/sach4td-c1)  
 
-**Chương hai : Quả khổ hiện tại.**  
+[**Chương hai : Quả khổ hiện tại.**](/sach4td-c2)  
 
 **Chương ba : Nghiệp mới.**  
 

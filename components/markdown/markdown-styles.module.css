@@ -49,6 +49,10 @@
   @apply mt-0;
 }
 
+.markdown img {
+  @apply m-auto;
+}
+
 .markdown {
   font-family: Roboto, Lato, helvetica, arial, freesans, clean, sans-serif;
   color: #333;
