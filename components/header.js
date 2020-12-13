@@ -12,7 +12,7 @@ export default function Header({ links }) {
         <div className="flex items-center font-open-sans justify-between h-24 w-full">
           <div className="flex h-full justify-between items-center">
             <div className="hidden sm:flex pt-2 h-full w-32">
-              <picture>
+              <picture className="mr-2">
                 <source srcSet={webpSrc} type="image/webp" />
                 <source srcSet={imgSrc} type="image/jpeg" />
                 <img
@@ -25,7 +25,7 @@ export default function Header({ links }) {
             <div className="w-10/12">
               <h1 className="text-2xl sm:text-3xl font-light font-lato">Tứ Thánh Đế</h1>
               <p className="text-gray-333 text-sm">
-                Điều mà đức Phật muốn truyền dạy lại cho loài người
+                Điều mà đức Phật muốn truyền dạy lại cho Chư Thiên và Loài Người
               </p>
             </div>
           </div>

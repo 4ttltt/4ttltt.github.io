@@ -2,12 +2,26 @@
   @apply text-base leading-relaxed text-left;
 }
 
-.markdown h3, .markdown h4, .markdown h5, .markdown h6 {
-  @apply font-lato;
+.mardown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  @apply font-roboto;
 }
 
+.markdown h1 {
+  @apply text-3xl mb-6;
+}
+.markdown h2 {
+  @apply text-2xl mb-4;
+}
 .markdown h3 {
-  @apply text-2xl mb-6
+  @apply text-xl mb-2;
+}
+.markdown h4 {
+  @apply text-lg mb-1;
 }
 
 .markdown p {
@@ -34,3 +48,283 @@
 .markdown :first-child {
   @apply mt-0;
 }
+
+.markdown {
+  font-family: Roboto, Lato, helvetica, arial, freesans, clean, sans-serif;
+  color: #333;
+  background-color: #fff;
+  border: none;
+  line-height: 1.5;
+  text-align: left;
+}
+.markdown pre {
+  @apply p-1 mt-3 mb-3 bg-yellow-100 border-yellow-500 text-yellow-700 border-2;
+}
+.markdown pre {
+  white-space: pre-wrap; /* css-3 */
+  white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+/*
+.markdown code {
+  background-color: #eee;
+  padding: 1px 3px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+}
+*/
+.markdown li p {
+  margin: 0.3em;
+}
+.markdown li {
+  list-style-type: disc;
+}
+.markdown a:link,
+.markdown a:visited {
+  color: #33e;
+  text-decoration: none;
+}
+.markdown a:hover {
+  color: #00f;
+  text-shadow: 1px 1px 2px #ccf;
+  text-decoration: underline;
+}
+.markdown h1 {
+  color: #999;
+  font-weight: bold;
+}
+.markdown h2 {
+  border-bottom: 1px dotted #aaa;
+  margin-bottom: 1em;
+  color: #333;
+}
+.markdown h3 {
+  color: #666;
+}
+.markdown .shadow {
+  -webkit-box-shadow: 0 5px 15px #000;
+  -moz-box-shadow: 0 5px 15px #000;
+  box-shadow: 0 5px 15px #000;
+}
+
+.markdown .hll {
+  background-color: #ffffcc;
+}
+.markdown .c {
+  color: #888888;
+} /* Comment */
+.markdown .err {
+  color: #a61717;
+  background-color: #e3d2d2;
+} /* Error */
+.markdown .k {
+  color: #008800;
+  font-weight: bold;
+} /* Keyword */
+.markdown .cm {
+  color: #888888;
+} /* Comment.Multiline */
+.markdown .cp {
+  color: #cc0000;
+  font-weight: bold;
+} /* Comment.Preproc */
+.markdown .c1 {
+  color: #888888;
+} /* Comment.Single */
+.markdown .cs {
+  color: #cc0000;
+  font-weight: bold;
+  background-color: #fff0f0;
+} /* Comment.Special */
+.markdown .gd {
+  color: #000000;
+  background-color: #ffdddd;
+} /* Generic.Deleted */
+.markdown .ge {
+  font-style: italic;
+} /* Generic.Emph */
+.markdown .gr {
+  color: #aa0000;
+} /* Generic.Error */
+.markdown .gh {
+  color: #303030;
+} /* Generic.Heading */
+.markdown .gi {
+  color: #000000;
+  background-color: #ddffdd;
+} /* Generic.Inserted */
+.markdown .go {
+  color: #888888;
+} /* Generic.Output */
+.markdown .gp {
+  color: #555555;
+} /* Generic.Prompt */
+.markdown .gs {
+  font-weight: bold;
+} /* Generic.Strong */
+.markdown .gu {
+  color: #606060;
+} /* Generic.Subheading */
+.markdown .gt {
+  color: #aa0000;
+} /* Generic.Traceback */
+.markdown .kc {
+  color: #008800;
+  font-weight: bold;
+} /* Keyword.Constant */
+.markdown .kd {
+  color: #008800;
+  font-weight: bold;
+} /* Keyword.Declaration */
+.markdown .kn {
+  color: #008800;
+  font-weight: bold;
+} /* Keyword.Namespace */
+.markdown .kp {
+  color: #008800;
+} /* Keyword.Pseudo */
+.markdown .kr {
+  color: #008800;
+  font-weight: bold;
+} /* Keyword.Reserved */
+.markdown .kt {
+  color: #888888;
+  font-weight: bold;
+} /* Keyword.Type */
+.markdown .m {
+  color: #0000dd;
+  font-weight: bold;
+} /* Literal.Number */
+.markdown .s {
+  color: #dd2200;
+  background-color: #fff0f0;
+} /* Literal.String */
+.markdown .na {
+  color: #336699;
+} /* Name.Attribute */
+.markdown .nb {
+  color: #003388;
+} /* Name.Builtin */
+.markdown .nc {
+  color: #bb0066;
+  font-weight: bold;
+} /* Name.Class */
+.markdown .no {
+  color: #003366;
+  font-weight: bold;
+} /* Name.Constant */
+.markdown .nd {
+  color: #555555;
+} /* Name.Decorator */
+.markdown .ne {
+  color: #bb0066;
+  font-weight: bold;
+} /* Name.Exception */
+.markdown .nf {
+  color: #0066bb;
+  font-weight: bold;
+} /* Name.Function */
+.markdown .nl {
+  color: #336699;
+  font-style: italic;
+} /* Name.Label */
+.markdown .nn {
+  color: #bb0066;
+  font-weight: bold;
+} /* Name.Namespace */
+.markdown .py {
+  color: #336699;
+  font-weight: bold;
+} /* Name.Property */
+.markdown .nt {
+  color: #bb0066;
+  font-weight: bold;
+} /* Name.Tag */
+.markdown .nv {
+  color: #336699;
+} /* Name.Variable */
+.markdown .ow {
+  color: #008800;
+} /* Operator.Word */
+.markdown .w {
+  color: #bbbbbb;
+} /* Text.Whitespace */
+.markdown .mf {
+  color: #0000dd;
+  font-weight: bold;
+} /* Literal.Number.Float */
+.markdown .mh {
+  color: #0000dd;
+  font-weight: bold;
+} /* Literal.Number.Hex */
+.markdown .mi {
+  color: #0000dd;
+  font-weight: bold;
+} /* Literal.Number.Integer */
+.markdown .mo {
+  color: #0000dd;
+  font-weight: bold;
+} /* Literal.Number.Oct */
+.markdown .sb {
+  color: #dd2200;
+  background-color: #fff0f0;
+} /* Literal.String.Backtick */
+.markdown .sc {
+  color: #dd2200;
+  background-color: #fff0f0;
+} /* Literal.String.Char */
+.markdown .sd {
+  color: #dd2200;
+  background-color: #fff0f0;
+} /* Literal.String.Doc */
+.markdown .s2 {
+  color: #dd2200;
+  background-color: #fff0f0;
+} /* Literal.String.Double */
+.markdown .se {
+  color: #0044dd;
+  background-color: #fff0f0;
+} /* Literal.String.Escape */
+.markdown .sh {
+  color: #dd2200;
+  background-color: #fff0f0;
+} /* Literal.String.Heredoc */
+.markdown .si {
+  color: #3333bb;
+  background-color: #fff0f0;
+} /* Literal.String.Interpol */
+.markdown .sx {
+  color: #22bb22;
+  background-color: #f0fff0;
+} /* Literal.String.Other */
+.markdown .sr {
+  color: #008800;
+  background-color: #fff0ff;
+} /* Literal.String.Regex */
+.markdown .s1 {
+  color: #dd2200;
+  background-color: #fff0f0;
+} /* Literal.String.Single */
+.markdown .ss {
+  color: #aa6600;
+  background-color: #fff0f0;
+} /* Literal.String.Symbol */
+.markdown .bp {
+  color: #003388;
+} /* Name.Builtin.Pseudo */
+.markdown .vc {
+  color: #336699;
+} /* Name.Variable.Class */
+.markdown .vg {
+  color: #dd7700;
+} /* Name.Variable.Global */
+.markdown .vi {
+  color: #3333bb;
+} /* Name.Variable.Instance */
+.markdown .il {
+  color: #0000dd;
+  font-weight: bold;
+} /* Literal.Number.Integer.Long */

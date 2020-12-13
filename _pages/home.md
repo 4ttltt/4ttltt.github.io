@@ -1,12 +1,12 @@
 ---
 title: Trang Chủ
 image: DucPhat.jpg
-navigation: true
+navigation: false
 ---
 Trang "Tứ Thánh Đế" cung cấp hành giả hành trang
 
-*  Sach Tứ Thánh Đế là Tối Thượng
-*  Dieu Pháp Âm
-*  Nhung Bài Kinh Trong Nikaya
+*  [Sách Tứ Thánh Đế là Tối Thượng](/sach4td)
+*  Diệu Pháp Âm
+*  Những Bài Kinh Trong Nikaya
 *  Một số đoạn kinh trích theo chủ đề
 

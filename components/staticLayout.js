@@ -2,11 +2,9 @@ import { NextSeo } from 'next-seo';
 import { join } from 'path';
 import PropTypes from 'prop-types';
 import Layout from './layout';
-import PrintMarkdown from './markdown/printMarkdown';
-import WithImage from './markdown/withImage';
 
-export default function DynamicLayout({
-  slug, title, image, markdown, links,
+export default function StaticLayout({
+  slug, title, links, children,
 }) {
   const canonical = join(process.env.CANONICAL_URL, slug);
   return (
@@ -19,18 +17,15 @@ export default function DynamicLayout({
           title: `${title} | Tứ Thánh Đế Là Tối Thượng`,
         }}
       />
-      {image
-        ? <WithImage markdown={markdown} image={image} />
-        : <PrintMarkdown markdown={markdown} />}
+      {children}
     </Layout>
   );
 }
 
-DynamicLayout.propTypes = {
+StaticLayout.propTypes = {
   title: PropTypes.string.isRequired,
   slug: PropTypes.string.isRequired,
-  image: PropTypes.string,
-  markdown: PropTypes.string.isRequired,
+  children: PropTypes.node.isRequired,
   links: PropTypes.arrayOf(PropTypes.exact({
     title: PropTypes.string,
     href: PropTypes.string,
@@ -39,6 +34,5 @@ DynamicLayout.propTypes = {
   })).isRequired,
 };
 
-DynamicLayout.defaultProps = {
-  image: '',
+StaticLayout.defaultProps = {
 };

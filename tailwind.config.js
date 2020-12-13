@@ -24,6 +24,7 @@ module.exports = {
       },
       fontFamily: {
         'open-sans': '"Open Sans", Helvetica, Arial, sans-serif',
+        roboto: '"Roboto", sans-serif',
         lato: '"Lato", sans-serif',
       },
       width: {

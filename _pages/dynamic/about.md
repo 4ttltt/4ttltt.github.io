@@ -1,7 +1,7 @@
 ---
 title: Liên Hệ
 image: DucPhat.png
-navigation: true
+navigation: false
 footer: false
 ---
 Trang liên hệ

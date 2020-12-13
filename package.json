@@ -6,7 +6,8 @@
     "build": "next build",
     "start": "next start",
     "export": "next export",
-    "eslint": "eslint ."
+    "eslint": "eslint .",
+    "eslint-fix": "eslint . --fix"
   },
   "dependencies": {
     "emailjs-com": "^2.6.3",
