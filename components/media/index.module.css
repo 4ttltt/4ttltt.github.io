@@ -1,0 +1,40 @@
+.mediaCategory {
+  @apply my-4;
+}
+
+.mediaCategoryHeader {
+  @apply text-2xl text-green-700;
+}
+
+.mediaCategoryBody {
+  @apply flex flex-col;
+}
+
+.mediaItem {
+  @apply flex flex-col m-3 w-full;
+}
+
+.mediaItemTitle {
+  @apply text-indigo-800;
+}
+.mediaItemContent {
+  position: relative;
+}
+
+.responsivePlayer {
+  position: relative;
+  padding-top: 56.25%;
+  /* @apply flex items-center justify-center; */
+}
+
+.reactPlayer {
+position: absolute;
+  top: 0;
+  left: 0;
+}
+
+@screen md {
+  .reponsivePlayer {
+    margin: auto;
+  }
+}
