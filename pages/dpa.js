@@ -17,6 +17,14 @@ const persons = {
 
 const hvVideos = [
   {
+    title: 'Trao đổi ngày 19/12/20',
+    type: mediaType.fbVideo,
+    href: 'https://www.youtube.com/watch?v=4tKBkEeqNcM&feature=youtu.be',
+    speaker: persons.hv,
+    author: persons.hv,
+    date: '',
+  },
+  {
     title: 'Bố Thí, Trì Giới, Các cõi trời',
     type: mediaType.fbVideo,
     href: 'https://facebook.com/tuthanhde2018/videos/447762136235883/',

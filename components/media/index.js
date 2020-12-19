@@ -2,7 +2,7 @@
 
 import mediaStyles from "./index.module.css";
 // import { useMediaQuery } from "react-responsive";
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import ReactPlayer from "react-player";
 export const mediaType = {
   fbVideo: "fbVideo",
@@ -14,8 +14,18 @@ export function FbEmbedded({ href }) {
   // const finalWidth = isMobile ? 320 : 560;
   // const finalHeight = isMobile ? (320 * 314) / 560 : 314;
   // key={`${href} ${isMobile} ${finalWidth} ${finalHeight}`}
+  const domRef = useRef();
+  useEffect(() => {
+    window.setTimeout(() => {
+      const iframe = domRef.current.querySelector('iframe');
+      if (iframe) {
+        console.log('iframe', iframe);
+        domRef.current.style.height = `${iframe.offsetHeight}px`
+      }
+    }, 3000);
+  }, [])
   return (
-    <div className={mediaStyles.responsivePlayer}>
+    <div ref={domRef} className={mediaStyles.responsivePlayer}>
       <ReactPlayer
         width="100%"
         heigh="100%"
@@ -37,12 +47,14 @@ export function FbWrap({ title, href }) {
         tabIndex={0}
         aria-hidden="true"
         className="m-1 text-green-500 border-1"
-        onClick={() => {
-          setShowVideo(true);
+        onClick={(e) => {
+          e.preventDefault();
+          setShowVideo(!showView);
         }}
       >
         {" "}
-        Mở/Play{" "}
+        {showView ? "Ẩn" : "Mở/Play"}
+        {" "}
       </a>
       {"  "}
 
