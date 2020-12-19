@@ -41,7 +41,10 @@ export default function PrintMarkdown({ markdown, showmenu = true }) {
           >
             {navVisible ? 'MENU →' : '← MENU'}
           </div>
-          <MarkNav className={markdownStyles.navContent} source={markdown} />
+          <MarkNav
+            className={markdownStyles.navContent}
+            source={markdown}
+          />
         </div>
       ) : null}
     </div>

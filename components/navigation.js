@@ -31,8 +31,21 @@ export default function Navigation({ links }) {
           {navLinks.map(({ title, href }) => {
             const active = asPath === href ? 'sm:active-link' : '';
             return (
-              <Link href={href} key={href}>
+              <Link
+                href={href}
+                key={href}
+                onClick={() => {
+                  if (mobileMenuOpen) {
+                    window.setTimeout(() => {
+                      toggleMenu();
+                    });
+                  }
+                }}
+              >
                 <a
+                  role="button"
+                  tabIndex={0}
+                  aria-hidden="true"
                   className={`${active} px-4 py-4 sm:py-0 sm:h-full flex justify-center items-center sm:border-b-4 border-white hover:border-theme-green transition-colors ease-linear duration-100 text-center`}
                 >
                   {title}

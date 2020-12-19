@@ -30,17 +30,31 @@ Trước khi xuất hiện khổ phải theo tiến trình như sau.
 
 ### 1.1 Khổ Thánh đế cần phải liễu tri.
 
-Trong Tứ Thánh đế, Khổ Thánh đế đã được trình bày đầu tiên phải có lý do  là quả khổ đang tồn tại liên tục trong cuộc đời nhưng nếu không nhận ra sự khổ thì chuyện chấm dứt khổ không xảy ra.Đức Phật đã dạy có tám quả khổ mà con người ai cũng thường gặp như sau : sanh là khổ, bệnh là khổ, già là khổ, chết là khổ, thương nhau mà chia lìa là khổ, gặp nhau mà không ưa là khổ, muốn không được là khổ, tóm lại có 5 thủ uẩn là khổ.
-Người học Phật cần hiểu rõ 8 cái khổ này để chấm dứt  ví như một người đang có bệnh mà không nhận biết mình bị bệnh làm sao có nhu cầu đi chữa bệnh.
-Làm thân người có thể biết những cái khổ đó do con người cũng có những hạnh phúc, những cảm thọ lạc chứ chúng sanh sống  trên sáu cõi trời dục giới không có đau khổ rất khó nhận biết cái khổ.Còn chúng sanh sống trong cõi như địa ngục, bàng sanh, ngạ quỷ toàn là đau khổ không có hạnh phúc.Cả những chúng sanh sướng quá hay khổ qua không thấy sự vô thường nên việc  khởi lên muốn chấm dứt khổ rất khó.
-Những vị Bồ tát kiếp cuối muốn trở thành một vị Phật toàn giác phải tái sanh vào loài người mới thấy bốn cái khổ căn bản như  sanh,già,bệnh chết mới xuất gia và trở thành Phật  toàn giác được .
-Ngay cả khi  được làm thân người  được hưởng phước giàu sang, có mấy người muốn chấm dứt khổ đến khi vô thường đến rồi thì tuổi già sức yếu có muốn chấm dứt khổ cũng đã quá muộn .
+Trong Tứ Thánh đế, Khổ Thánh đế đã được trình bày đầu tiên phải có lý do  là quả khổ đang tồn tại liên tục trong cuộc đời nhưng nếu không nhận ra sự khổ thì chuyện chấm dứt khổ không xảy ra.Đức Phật đã dạy có tám quả khổ mà con người ai cũng thường gặp như sau : sanh là khổ, bệnh là khổ, già là khổ, chết là khổ, thương nhau mà chia lìa là khổ, gặp nhau mà không ưa là khổ, muốn không được là khổ, tóm lại có 5 thủ uẩn là khổ.  
+
+Người học Phật cần hiểu rõ 8 cái khổ này để chấm dứt  ví như một người đang có bệnh mà không nhận biết mình bị bệnh làm sao có nhu cầu đi chữa bệnh.  
+
+Làm thân người có thể biết những cái khổ đó do con người cũng có những hạnh phúc, những cảm thọ lạc chứ chúng sanh sống  trên sáu cõi trời dục giới không có đau khổ rất khó nhận biết cái khổ.Còn chúng sanh sống trong cõi như địa ngục, bàng sanh, ngạ quỷ toàn là đau khổ không có hạnh phúc.Cả những chúng sanh sướng quá hay khổ qua không thấy sự vô thường nên việc  khởi lên muốn chấm dứt khổ rất khó.  
+
+Những vị Bồ tát kiếp cuối muốn trở thành một vị Phật toàn giác phải tái sanh vào loài người mới thấy bốn cái khổ căn bản như  sanh,già,bệnh chết mới xuất gia và trở thành Phật  toàn giác được .  
+
+Ngay cả khi  được làm thân người  được hưởng phước giàu sang, có mấy người muốn chấm dứt khổ đến khi vô thường đến rồi thì tuổi già sức yếu có muốn chấm dứt khổ cũng đã quá muộn.  
+
 Làm được thân người rất may mắn có thể chấm dứt khổ nhưng chúng sanh không có hữu duyên gặp Chánh pháp nên phóng dật vào những lạc thú trần gian đến khi mất thân người sinh vào ba đường ác địa ngục,bàng sanh,ngạ quỷ rồi chuyện trở lại làm thân người khó vô cùng xin trích dẫn một  đoạn trong kinh Hiên ngu số 129 Trung bộ.
 
 ### 1.2 Chuyện mất thân người rồi để có được thân người cực kỳ khó khăn
-“Ví như, này các Tỳ-kheo, một người quăng một khúc cây có một cái lỗ trên biển, một ngọn gió từ phương Ðông thổi nó trôi qua phía tây; một ngọn gió từ phương Tây thổi nó trôi qua phía đông; một ngọn gió từ phương Bắc thổi nó trôi qua phía nam; một ngọn gió từ phương Nam thổi nó trôi qua phía bắc. Rồi có một con rùa mù, cứ một trăm năm mới trồi đầu lên một lần. Này các Tỳ-kheo, các Ông nghĩ thế nào? Con rùa mù ấy có thể đút cổ nó vào trong lỗ cây này được không?
--- Nếu có được chăng nữa, bạch Thế Tôn, thời chỉ được một lần, sau một thời gian rất lâu dài.
--- Còn mau hơn, này các Tỳ-kheo, con rùa mù ấy có thể chui cổ vào khúc cây có lỗ hổng kia; nhưng này các Tỷ-kheo, Ta tuyên bố rằng còn khó hơn được làm người trở lại, một khi người ngu bị rơi vào đọa xứ. Vì sao vậy? Vì ở đấy, này các Tỳ-kheo, không có pháp hành, an tịnh hành, thiện hành, phước hành. Này các Tỳ-kheo, ở đây chỉ có ăn lẫn nhau và ăn thịt kẻ yếu.”.
+```
+“Ví như, này các Tỳ-kheo, một người quăng một khúc cây có một cái lỗ trên biển, một ngọn gió từ phương Ðông thổi nó trôi qua phía tây; một ngọn gió từ phương Tây thổi nó trôi qua phía đông; một ngọn gió từ phương Bắc thổi nó trôi qua phía nam; một ngọn gió từ phương Nam thổi nó trôi qua phía bắc.  
+
+Rồi có một con rùa mù, cứ một trăm năm mới trồi đầu lên một lần. Này các Tỳ-kheo, các Ông nghĩ thế nào? Con rùa mù ấy có thể đút cổ nó vào trong lỗ cây này được không?  
+
+-- Nếu có được chăng nữa, bạch Thế Tôn, thời chỉ được một lần, sau một thời gian rất lâu dài.  
+
+-- Còn mau hơn, này các Tỳ-kheo, con rùa mù ấy có thể chui cổ vào khúc cây có lỗ hổng kia; nhưng này các Tỷ-kheo, Ta tuyên bố rằng còn khó hơn được làm người trở lại, một khi người ngu bị rơi vào đọa xứ.  
+
+Vì sao vậy? Vì ở đấy, này các Tỳ-kheo, không có pháp hành, an tịnh hành, thiện hành, phước hành. Này các Tỳ-kheo, ở đây chỉ có ăn lẫn nhau và ăn thịt kẻ yếu.”.   
+```
+
 
 ### 1.3 Chuyện đau khổ khi sanh vào địa ngục.
 
@@ -48,43 +62,76 @@ Làm được thân người rất may mắn có thể chấm dứt khổ nhưng
 
 
 ```
- “Này các Tỳ-kheo, nếu có ai nói một cách đúng đắn về người ấy, phải nói rằng người ấy hoàn toàn không tốt đẹp, hoàn toàn không khả ái, hoàn toàn không thích ý. Cũng như muốn nói một cách đúng đắn về Ðịa ngục, phải nói rằng Ðịa ngục, hoàn toàn không tốt đẹp, hoàn toàn không khả ái, hoàn toàn không thích ý. Về vấn đề này, này các Tỳ-kheo, cho đến một ví dụ cũng không dễ gì, vì rất nhiều là sự đau khổ của Ðịa ngục.
+ “Này các Tỳ-kheo, nếu có ai nói một cách đúng đắn về người ấy, phải nói rằng người ấy hoàn toàn không tốt đẹp, hoàn toàn không khả ái, hoàn toàn không thích ý. Cũng như muốn nói một cách đúng đắn về Ðịa ngục, phải nói rằng Ðịa ngục, hoàn toàn không tốt đẹp, hoàn toàn không khả ái, hoàn toàn không thích ý. Về vấn đề này, này các Tỳ-kheo, cho đến một ví dụ cũng không dễ gì, vì rất nhiều là sự đau khổ của Ðịa ngục.  
+ 
 Khi được nói vậy, một Tỷ-kheo khác bạch Thế Tôn:
--- Bạch Thế Tôn, Thế Tôn có thể cho con một ví dụ được không?
+-- Bạch Thế Tôn, Thế Tôn có thể cho con một ví dụ được không?  
+
 Thế Tôn đáp:
--- Có thể được, này Tỷ-kheo. Ví như, này Tỷ-kheo, có người bắt được một tên trộm cắp, dẫn đến trước mặt vua và thưa: "Tâu Ðại vương, đây là một tên trộm cướp phạm tội cho Ngài! Hãy hình phạt nó như Ðại vương muốn". Và vị vua ấy nói như sau về tên trộm cướp ấy: "Này các Ông, hãy đi và vào buổi sáng hãy đâm người này với một trăm ngọn giáo". Và vào buổi sáng, họ đâm người ấy với một trăm ngọn giáo. Rồi đến trưa, vua nói như sau: "Này các Ông, người ấy ra sao?" -- "Tâu Ðại vương, nó vẫn còn sống". Rồi vua lại nói như sau về tên trộm cướp ấy: "Này các Ông, hãy đi và vào buổi trưa, hãy đâm người này với một trăm ngọn giáo". Và vào buổi trưa, họ đâm người ấy với một trăm ngọn giáo. Rồi đến chiều, vua nói như sau: "Này các Ông, người ấy ra sao?" -- "Tâu Ðại vương, nó vẫn còn sống". Rồi vua lại nói như sau về người kia: "Này các Ông, hãy đi và vào buổi chiều, hãy đâm người này với một trăm ngọn giáo". Và vào buổi chiều, họ đâm người ấy với một trăm ngọn giáo.
-Này các Tỳ-kheo, Ông nghĩ thế nào? Người ấy bị đâm ba trăm ngọn giáo, do nhân duyên ấy, có cảm thọ khổ ưu không?
--- Bạch Thế Tôn, chỉ bị ngọn giáo đâm một lần, người kia do nhân duyên ấy cũng cảm thấy khổ ưu, còn nói gì đến ba trăm ngọn giáo!
-Rồi Thế Tôn lượm lên một hòn đá nhỏ, lớn bằng bàn tay và nói với các Tỷ-kheo:
--- Này các Tỳ-kheo, các Ông nghĩ thế nào? Cái gì lớn hơn, hòn đá này, to bằng bàn tay do ta lượm lên, hay núi Tuyết Sơn (Himalaya), vua các loại núi?
--- Thật là quá nhỏ, bạch Thế Tôn, hòn đá này lớn bằng bàn tay do Thế Tôn lượm lên. So sánh với Tuyết Sơn vua các loại núi, nó không đáng kể gì, nó không bằng một phần ngàn vạn lần (của núi Tuyết), không thể so sánh được!
--- Cũng vậy, này các Tỳ-kheo, người ấy bị đâm bởi ba trăm ngọn giáo, do nhân duyên ấy cảm thọ khổ ưu. Khổ ưu ấy so sánh với khổ ưu ở Ðịa ngục không đáng kể gì, không bằng một phần ngàn vạn lần, không thể so sánh được. Này các Tỳ-kheo, các người giữ địa ngục bắt người ấy chịu hình phạt gọi là năm cọc (pancavidhabandhanam). Họ lấy cọc sắt nung đỏ đóng vào một bàn tay, họ lấy cọc sắt nung đỏ đóng vào bàn tay thứ hai, họ lấy cọc sắt nung đỏ đóng vào bàn chân, họ lấy cọc sắt nung đỏ đóng vào bàn chân thứ hai, họ lấy cọc sắt nung đỏ đóng vào giữa ngực. Người ấy ở đây thọ lãnh các cảm giác đau đớn, thống khổ, khốc liệt. Nhưng người ấy không có thể mệnh chung cho đến khi ác nghiệp của người ấy chưa được tiêu trừ.
-Này các Tỳ-kheo, các người giữ Ðịa ngục bắt người ấy nằm xuống và lấy búa chặt người ấy. Người ấy ở đây thọ lãnh các cảm giác đau đớn, thống khổ, khốc liệt. Nhưng người ấy không thể mệnh chung cho đến khi ác nghiệp của người ấy chưa được tiêu trừ.
-Này các Tỳ-kheo, các người giữ Ðịa ngục dựng ngược người ấy chân phía trên, đầu phía dưới và lấy búa chặt người ấy. Người ấy ở đây cảm thọ... chưa được tiêu trừ.
-Này các Tỳ-kheo, các người giữ Ðịa ngục cột người ấy vào một chiếc xe, kéo người ấy chạy tới chạy lui trên đất được đốt cháy đỏ, cháy thành ngọn, cháy đỏ rực. Người ấy ở đây cảm thọ... chưa được tiêu trừ.
-Rồi này các Tỳ-kheo, các người giữ Ðịa ngục đẩy người ấy lên kéo người ấy xuống trên một sườn núi đầy than hừng, cháy đỏ, cháy thành ngọn, cháy đỏ rực. Người ấy ở đây cảm thọ... chưa được tiêu trừ.
-Rồi này các Tỳ-kheo, các người giữ Ðịa ngục dựng ngược người ấy chân phía trên, đầu phía dưới và quăng người ấy vào một vạc dầu bằng đồng nung đỏ, cháy đỏ, cháy thành ngọn, cháy đỏ rực. Người ấy ở đây bị nấu với bọt nước sôi sùng sục, ở đây bị nấu với vạc nước sôi sùng sục; khi thì nổi lên trên, khi thì chìm xuống đáy, khi thì trôi dạt ngang. Người ấy ở đây thọ lãnh các cảm giác đau đớn, thống khổ, khốc liệt. Nhưng người ấy không có thể mệnh chung cho đến khi ác nghiệp của người ấy chưa được tiêu trừ.
-Rồi này các Tỳ-kheo, những người giữ Ðịa ngục quăng người ấy vào Ðại địa ngục. Này các Tỳ-kheo, Ðại địa ngục ấy, có bốn góc, bốn cửa, chia thành phần bằng nhau; xung quanh có tường sắt; mái sắt lợp lên trên. Nền Ðịa ngục bằng sắt nung đỏ, cháy đỏ rực; đứng thẳng, luôn có mặt, rộng một trăm do tuần.
-Này các Tỳ-kheo, với rất nhiều pháp môn, Ta nói về Ðịa ngục, nhưng thật khó nói cho được đầy đủ, này các Tỳ-kheo, vì đau khổ ở Ðịa ngục quá nhiều.”
+-- Có thể được, này Tỷ-kheo. Ví như, này Tỷ-kheo, có người bắt được một tên trộm cắp, dẫn đến trước mặt vua và thưa: "Tâu Ðại vương, đây là một tên trộm cướp phạm tội cho Ngài! Hãy hình phạt nó như Ðại vương muốn". Và vị vua ấy nói như sau về tên trộm cướp ấy: "Này các Ông, hãy đi và vào buổi sáng hãy đâm người này với một trăm ngọn giáo". Và vào buổi sáng, họ đâm người ấy với một trăm ngọn giáo. Rồi đến trưa, vua nói như sau: "Này các Ông, người ấy ra sao?"  
+
+-- "Tâu Ðại vương, nó vẫn còn sống". Rồi vua lại nói như sau về tên trộm cướp ấy: "Này các Ông, hãy đi và vào buổi trưa, hãy đâm người này với một trăm ngọn giáo". Và vào buổi trưa, họ đâm người ấy với một trăm ngọn giáo. Rồi đến chiều, vua nói như sau: "Này các Ông, người ấy ra sao?"  
+
+-- "Tâu Ðại vương, nó vẫn còn sống". Rồi vua lại nói như sau về người kia: "Này các Ông, hãy đi và vào buổi chiều, hãy đâm người này với một trăm ngọn giáo". Và vào buổi chiều, họ đâm người ấy với một trăm ngọn giáo.
+Này các Tỳ-kheo, Ông nghĩ thế nào? Người ấy bị đâm ba trăm ngọn giáo, do nhân duyên ấy, có cảm thọ khổ ưu không?  
+
+
+-- Bạch Thế Tôn, chỉ bị ngọn giáo đâm một lần, người kia do nhân duyên ấy cũng cảm thấy khổ ưu, còn nói gì đến ba trăm ngọn giáo!  
+
+
+Rồi Thế Tôn lượm lên một hòn đá nhỏ, lớn bằng bàn tay và nói với các Tỷ-kheo:  
+-- Này các Tỳ-kheo, các Ông nghĩ thế nào? Cái gì lớn hơn, hòn đá này, to bằng bàn tay do ta lượm lên, hay núi Tuyết Sơn (Himalaya), vua các loại núi?  
+
+-- Thật là quá nhỏ, bạch Thế Tôn, hòn đá này lớn bằng bàn tay do Thế Tôn lượm lên. So sánh với Tuyết Sơn vua các loại núi, nó không đáng kể gì, nó không bằng một phần ngàn vạn lần (của núi Tuyết), không thể so sánh được!  
+
+-- Cũng vậy, này các Tỳ-kheo, người ấy bị đâm bởi ba trăm ngọn giáo, do nhân duyên ấy cảm thọ khổ ưu. Khổ ưu ấy so sánh với khổ ưu ở Ðịa ngục không đáng kể gì, không bằng một phần ngàn vạn lần, không thể so sánh được. Này các Tỳ-kheo, các người giữ địa ngục bắt người ấy chịu hình phạt gọi là năm cọc (pancavidhabandhanam). Họ lấy cọc sắt nung đỏ đóng vào một bàn tay, họ lấy cọc sắt nung đỏ đóng vào bàn tay thứ hai, họ lấy cọc sắt nung đỏ đóng vào bàn chân, họ lấy cọc sắt nung đỏ đóng vào bàn chân thứ hai, họ lấy cọc sắt nung đỏ đóng vào giữa ngực. Người ấy ở đây thọ lãnh các cảm giác đau đớn, thống khổ, khốc liệt. Nhưng người ấy không có thể mệnh chung cho đến khi ác nghiệp của người ấy chưa được tiêu trừ.  
+
+Này các Tỳ-kheo, các người giữ Ðịa ngục bắt người ấy nằm xuống và lấy búa chặt người ấy. Người ấy ở đây thọ lãnh các cảm giác đau đớn, thống khổ, khốc liệt. Nhưng người ấy không thể mệnh chung cho đến khi ác nghiệp của người ấy chưa được tiêu trừ.  
+
+Này các Tỳ-kheo, các người giữ Ðịa ngục dựng ngược người ấy chân phía trên, đầu phía dưới và lấy búa chặt người ấy. Người ấy ở đây cảm thọ... chưa được tiêu trừ.  
+
+Này các Tỳ-kheo, các người giữ Ðịa ngục cột người ấy vào một chiếc xe, kéo người ấy chạy tới chạy lui trên đất được đốt cháy đỏ, cháy thành ngọn, cháy đỏ rực. Người ấy ở đây cảm thọ... chưa được tiêu trừ.  
+
+Rồi này các Tỳ-kheo, các người giữ Ðịa ngục đẩy người ấy lên kéo người ấy xuống trên một sườn núi đầy than hừng, cháy đỏ, cháy thành ngọn, cháy đỏ rực. Người ấy ở đây cảm thọ... chưa được tiêu trừ.  
+
+Rồi này các Tỳ-kheo, các người giữ Ðịa ngục dựng ngược người ấy chân phía trên, đầu phía dưới và quăng người ấy vào một vạc dầu bằng đồng nung đỏ, cháy đỏ, cháy thành ngọn, cháy đỏ rực. Người ấy ở đây bị nấu với bọt nước sôi sùng sục, ở đây bị nấu với vạc nước sôi sùng sục; khi thì nổi lên trên, khi thì chìm xuống đáy, khi thì trôi dạt ngang. Người ấy ở đây thọ lãnh các cảm giác đau đớn, thống khổ, khốc liệt. Nhưng người ấy không có thể mệnh chung cho đến khi ác nghiệp của người ấy chưa được tiêu trừ.  
+
+Rồi này các Tỳ-kheo, những người giữ Ðịa ngục quăng người ấy vào Ðại địa ngục. Này các Tỳ-kheo, Ðại địa ngục ấy, có bốn góc, bốn cửa, chia thành phần bằng nhau; xung quanh có tường sắt; mái sắt lợp lên trên. Nền Ðịa ngục bằng sắt nung đỏ, cháy đỏ rực; đứng thẳng, luôn có mặt, rộng một trăm do tuần.  
+
+Này các Tỳ-kheo, với rất nhiều pháp môn, Ta nói về Ðịa ngục, nhưng thật khó nói cho được đầy đủ, này các Tỳ-kheo, vì đau khổ ở Ðịa ngục quá nhiều.”  
+
 ```
 Trong vòng luân hồi, nước mắt chảy cho những gì yêu thương mà phải chia ly và khóc khi gặp những người mà không ưa nhiều hơn nước bốn biển đại dương.Như vậy đau khổ nhiều vô số.
 
 ### 1.4 Chuyện đau khổ vô cùng trong vòng luân hồi.
 
 ```
-1) ... Trú ở Sàvatthi.
-2) -- Vô thỉ là luân hồi này, này các Tỳ-kheo, khởi điểm không thể nêu rõ đối với sự lưu chuyển luân hồi của các chúng sanh bị vô minh che đậy, bị tham ái trói buộc.
-3) Các Ông nghĩ thế nào, này các Tỳ-kheo, cái gì là nhiều hơn? Dòng nước mắt tuôn chảy do các Ông than van, khóc lóc, phải hội ngộ với những gì không ưa, phải biệt ly với những gì mình thích, khi các Ông phải lưu chuyển luân hồi trong thời gian dài này hay là nước trong bốn biển lớn?
-4) -- Bạch Thế Tôn, theo như lời Thế Tôn thuyết pháp, chúng con hiểu rằng, cái này, bạch Thế Tôn, là nhiều hơn, tức là dòng nước mắt tuôn chảy do chúng con than van, khóc lóc, phải hội ngộ với những gì không ưa, phải biệt ly với những gì mình thích, khi phải lưu chuyển luân hồi trong thời gian dài này chớ không phải nước trong bốn biển lớn.
-5) -- Lành thay, lành thay, này các Tỳ-kheo! Lành thay, này các Tỳ-kheo, các Ông đã hiểu như vậy Pháp do Ta dạy!
-6) Cái này là nhiều hơn, này các Tỳ-kheo, tức là dòng nước mắt tuôn chảy do các Ông than van, khóc lóc, phải hội ngộ với những gì không ưa, phải biệt ly với những gì mình thích, khi các Ông phải lưu chuyển luân hồi trong thời gian dài này chớ không phải nước trong bốn biển lớn.
-7) Trong một thời gian dài, này các Tỳ-kheo, các Ông chịu đựng mẹ chết.
-8) ... các Ông chịu đựng con chết. ..
-9) ... các Ông chịu đựng con gái chết...
-10) ... các Ông chịu đựng tai họa về bà con...
-11) ... các Ông chịu đựng tai họa về tiền của...
-12) Trong một thời gian dài, này các Tỳ-kheo, các Ông chịu đựng tai họa của bệnh tật. Cái này là nhiều hơn, là dòng nước mắt tuôn chảy do các Ông than van, khóc lóc, phải hội ngộ với những gì mình không ưa, phải biệt ly với những gì mình thích, khi các Ông phải chịu đựng tai họa của bệnh tật chớ không phải nước trong bốn biển.
-13) Vì sao? Vô thỉ là luân hồi này, này các Tỳ-kheo... bị tham ái trói buộc.
+1) ... Trú ở Sàvatthi.  
+
+2) -- Vô thỉ là luân hồi này, này các Tỳ-kheo, khởi điểm không thể nêu rõ đối với sự lưu chuyển luân hồi của các chúng sanh bị vô minh che đậy, bị tham ái trói buộc.  
+
+3) Các Ông nghĩ thế nào, này các Tỳ-kheo, cái gì là nhiều hơn? Dòng nước mắt tuôn chảy do các Ông than van, khóc lóc, phải hội ngộ với những gì không ưa, phải biệt ly với những gì mình thích, khi các Ông phải lưu chuyển luân hồi trong thời gian dài này hay là nước trong bốn biển lớn?  
+
+4) -- Bạch Thế Tôn, theo như lời Thế Tôn thuyết pháp, chúng con hiểu rằng, cái này, bạch Thế Tôn, là nhiều hơn, tức là dòng nước mắt tuôn chảy do chúng con than van, khóc lóc, phải hội ngộ với những gì không ưa, phải biệt ly với những gì mình thích, khi phải lưu chuyển luân hồi trong thời gian dài này chớ không phải nước trong bốn biển lớn.  
+
+5) -- Lành thay, lành thay, này các Tỳ-kheo! Lành thay, này các Tỳ-kheo, các Ông đã hiểu như vậy Pháp do Ta dạy!  
+
+6) Cái này là nhiều hơn, này các Tỳ-kheo, tức là dòng nước mắt tuôn chảy do các Ông than van, khóc lóc, phải hội ngộ với những gì không ưa, phải biệt ly với những gì mình thích, khi các Ông phải lưu chuyển luân hồi trong thời gian dài này chớ không phải nước trong bốn biển lớn.  
+
+7) Trong một thời gian dài, này các Tỳ-kheo, các Ông chịu đựng mẹ chết.  
+
+8) ... các Ông chịu đựng con chết. ..  
+
+9) ... các Ông chịu đựng con gái chết...   
+
+10) ... các Ông chịu đựng tai họa về bà con...   
+
+11) ... các Ông chịu đựng tai họa về tiền của...   
+
+12) Trong một thời gian dài, này các Tỳ-kheo, các Ông chịu đựng tai họa của bệnh tật. Cái này là nhiều hơn, là dòng nước mắt tuôn chảy do các Ông than van, khóc lóc, phải hội ngộ với những gì mình không ưa, phải biệt ly với những gì mình thích, khi các Ông phải chịu đựng tai họa của bệnh tật chớ không phải nước trong bốn biển.  
+
+13) Vì sao? Vô thỉ là luân hồi này, này các Tỳ-kheo... bị tham ái trói buộc.   
+
 14) Cho đến như vậy, này các Tỳ-kheo, là vừa đủ để các Ông nhàm chán, là vừa đủ để các Ông từ bỏ, là vừa đủ để các Ông giải thoát đối với tất cả các hành.
 ```
 Những bài kinh vừa trích dẫn ở trên giúp người học Phật thấy khổ và sợ khổ mà lo tu càng sớm càng tốt.Đừng bào giờ đợi đến già mới tu thì đã quá muộn.Vì vậy nay được làm thân người, hãy cố gắng biết rốt ráo về khổ và lo chấm dứt khổ.
@@ -102,7 +149,28 @@ Và này các Tỷ-kheo, thế nào là danh sắc? Thọ, tưởng, tư, xúc, 
 Có một đoạn trong kinh Đoạn tận ái số 38 cho biết Danh sắc là bào thai có sự sống trong bụng mẹ.
 
 ```
-Này các Tỳ-kheo, có ba sự hòa hợp mà một bào thai thành hình: ở đây, cha mẹ có giao hợp và người mẹ không trong thời có thể thụ thai, và hương ấm (gandhabba) không hiện tiền, như vậy bào thai không thể thành hình. Ở đây, cha và mẹ có giao hợp, và người mẹ trong thời có thể thụ thai, nhưng hương ấm (gandhabba) không hiện tiền, như vậy bào thai không thể thành hình. Và này các Tỳ-kheo, khi nào cha mẹ có giao hợp, và người mẹ trong thời có thể thụ thai, và hương ấm có hiện tiền; có ba sự hòa hợp như vậy, thì bào thai mới thành hình.
+Này các Tỳ-kheo, có ba sự hòa hợp mà một bào thai thành hình: ở đây,   
+
+(1) cha mẹ có giao hợp  
+(2) và người mẹ không trong thời có thể thụ thai,  
+(3) và hương ấm (gandhabba) không hiện tiền,  
+
+như vậy bào thai không thể thành hình.  
+
+Ở đây,   
+(1)cha và mẹ có giao hợp,  
+(2) và người mẹ trong thời có thể thụ thai,  
+(3) nhưng hương ấm (gandhabba) không hiện tiền,  
+
+như vậy bào thai không thể thành hình.  
+
+Và này các Tỳ-kheo, khi nào:  
+
+(1) cha mẹ có giao hợp,  
+(2) và người mẹ trong thời có thể thụ thai,  
+(3) và hương ấm có hiện tiền;  
+
+có ba sự hòa hợp như vậy, thì bào thai mới thành hình.
 ```
 
 Một sự sống của  loài hữu tình phải có Danh thuộc về tâm và sắc là đất nước,gió lửa .Vì vậy ở giai đoạn đầu hình thành có hai giác quan là thân căn và ý căn rõ nét nhất còn  mắt,tai,lưỡi,mũi có thể còn ẩn dấu sẽ từ từ phát triển đầy đủ khoảng 9 tháng mới đầy đủ.
@@ -134,22 +202,52 @@ Bốn đại chủng là đất, nước, gió, lửa.Định nghĩa tứ đại
 Nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ, ý xứ. Này các Tỳ-kheo, đây gọi là sáu xứ.( kinh tương ưng 2)
 
 
-Nhưng bạch Thế Tôn, cho đến mức độ nào là vừa đủ để nói: "Tỳ-kheo thiện xảo về xứ?"
-Này Ananda, có sáu nội xứ, ngoại xứ này: mắt và sắc, tai và tiếng, mũi và hương, lưỡi và vị, thân và xúc, ý và pháp. Này Ananda, cho đến khi biết được, thấy được sáu nội ngoại xứ này, cho đến mức độ như vậy, này Ananda, là vừa đủ để nói: "Tỳ-kheo thiện xảo về xứ".(kinh trung bộ 115)
+Nhưng bạch Thế Tôn, cho đến mức độ nào là vừa đủ để nói: "Tỳ-kheo thiện xảo về xứ?"  
+Này Ananda, có sáu nội xứ, ngoại xứ này:   
+
+(1) mắt và sắc,  
+(2) tai và tiếng,  
+(3) mũi và hương,  
+(4) lưỡi và vị,   
+(5) thân và xúc,  
+(6)  ý và pháp.  
+
+Này Ananda, cho đến khi biết được, thấy được sáu nội ngoại xứ này, cho đến mức độ như vậy, này Ananda, là vừa đủ để nói: "Tỳ-kheo thiện xảo về xứ".  
+
+(kinh trung bộ 115)
 
 
 14) Ngôi làng trống không, này các Tỳ-kheo, là đồng nghĩa với sáu nội xứ. Này các Tỳ-kheo, nếu một người hiền, kinh nghiệm, có trí, tìm hiểu nó với con mắt; vị ấy thấy nó là trống không, là rỗng không, là tuyệt không... Nếu tìm hiểu nó với ý; vị ấy thấy nó là trống không, là rỗng không, là tuyệt không.
-15) Bọn cướp phá làng, này các Tỳ-kheo, là đồng nghĩa với sáu ngoại xứ. Này các Tỳ-kheo, mắt bị tàn hại trong các sắc khả ái và không khả ái. Này các Tỳ-kheo, tai bị tàn hại trong các tiếng khả ái và không khả ái. Này các Tỳ-kheo, mũi bị tàn hại trong các hương khả ái và không khả ái. Này các Tỳ-kheo, lưỡi bị tàn hại trong các vị khả ái và không khả ái. Này các Tỳ-kheo, thân bị tàn hại trong các xúc khả ái và không khả ái. Này các Tỳ-kheo, ý bị tàn hại trong các pháp khả ái và không khả ái.( kinh tương ưng 4)
+
+
+15) Bọn cướp phá làng, này các Tỳ-kheo, là đồng nghĩa với sáu ngoại xứ.   
+
+(1) Này các Tỳ-kheo, mắt bị tàn hại trong các sắc khả ái và không khả ái.  
+(2) Này các Tỳ-kheo, tai bị tàn hại trong các tiếng khả ái và không khả ái.  
+(3) Này các Tỳ-kheo, mũi bị tàn hại trong các hương khả ái và không khả ái.  
+(4) Này các Tỳ-kheo, lưỡi bị tàn hại trong các vị khả ái và không khả ái.   
+(5) Này các Tỳ-kheo, thân bị tàn hại trong các xúc khả ái và không khả ái.  
+(6) Này các Tỳ-kheo, ý bị tàn hại trong các pháp khả ái và không khả ái.  
+
+(kinh tương ưng 4)
 ```
 
-Sáu ngoại xứ đồng nghĩa bọn cướp phá làng , sáu nội xứ đồng nghĩa làng trống không vì mắt nhập sắc thì sắc sẽ  phá hoại mắt.
-Duyên lục nhập rất quan trọng, những cảm thọ lạc hay những cảm thọ khổ lệ thuộc vào những gì nhập vào mắt , nhập vào tai v.v.. ngày hôm nay .Nếu nhập vào những thông tin tốt chứng tỏ quá khứ đã có nghiệp tốt, nếu nhập vào những thông tin xấu chứng tỏ quá khứ đã có nghiệp xấu. Những người học Phật sẽ không có gì ngạc nhiên khi thế giới loài người có nhiều người theo tà kiến so với người có chánh kiến.
+Sáu ngoại xứ đồng nghĩa bọn cướp phá làng , sáu nội xứ đồng nghĩa làng trống không vì mắt nhập sắc thì sắc sẽ  phá hoại mắt.  
+
+Duyên lục nhập rất quan trọng, những cảm thọ lạc hay những cảm thọ khổ lệ thuộc vào những gì nhập vào mắt , nhập vào tai v.v.. ngày hôm nay.  
+
+Nếu nhập vào những thông tin tốt chứng tỏ quá khứ đã có nghiệp tốt, nếu nhập vào những thông tin xấu chứng tỏ quá khứ đã có nghiệp xấu.  
+
+Những người học Phật sẽ không có gì ngạc nhiên khi thế giới loài người có nhiều người theo tà kiến so với người có chánh kiến.
 
 #### Vô minh tiếp tục  hay có  Minh sanh ?
 
-Đức Phật đã nhập Niết Bàn  cách đây khoảng 26 thế kỷ nhưng những lời dạy của Ngài vẫn còn lưu truyền trong năm bộ kinh Nikaya cho đến ngày nay .Như vậy chúng ta vẫn  còn may mắn được đọc những gì mà Đức Phật  đã dạy trong quá khứ  do nhờ  công đức của Thầy Thích Minh Châu dịch nguyên bản tiếng Pali ra tiếng Việt còn kinh Phật  bằng tiếng Việt được lưu truyền trên đất nước Việt nam do một số dịch giả biết tiếng Hán và tiếng quốc ngữ dịch ra bằng tiếng Việt thiếu sót và sai nhiều so với bản dịch từ Pali ra Việt.
-Thầy Minh châu về nước từ 1964 và cho đến 1975, Thầy  đã dịch xong kinh Trung bộ và kinh Trường bộ và từ 1975-1978 cũng  đã dịch xong kinh Tăng chi, kinh Tương ưng và khoảng 4-6 cuốn kinh tiểu bộ. Phần còn lại do Cư sĩ Trần Phương Lan đã dịch xong đến cuốn 10. Như vậy  bản kinh Pali-Việt được  phát hành chính thức tại Việt nam  vào năm 1991, số Phật tử  Việt nam học được 5 bộ kinh Nikaya.quá ít.Nhờ  có Internet nên kinh Nikaya được quảng bá rộng rãi nên có nhiều người biết và học hỏi.
+Đức Phật đã nhập Niết Bàn  cách đây khoảng 26 thế kỷ nhưng những lời dạy của Ngài vẫn còn lưu truyền trong năm bộ kinh Nikaya cho đến ngày nay .Như vậy chúng ta vẫn  còn may mắn được đọc những gì mà Đức Phật  đã dạy trong quá khứ  do nhờ  công đức của Thầy Thích Minh Châu dịch nguyên bản tiếng Pali ra tiếng Việt còn kinh Phật  bằng tiếng Việt được lưu truyền trên đất nước Việt nam do một số dịch giả biết tiếng Hán và tiếng quốc ngữ dịch ra bằng tiếng Việt thiếu sót và sai nhiều so với bản dịch từ Pali ra Việt.  
+
+Thầy Minh châu về nước từ 1964 và cho đến 1975, Thầy  đã dịch xong kinh Trung bộ và kinh Trường bộ và từ 1975-1978 cũng  đã dịch xong kinh Tăng chi, kinh Tương ưng và khoảng 4-6 cuốn kinh tiểu bộ. Phần còn lại do Cư sĩ Trần Phương Lan đã dịch xong đến cuốn 10. Như vậy  bản kinh Pali-Việt được  phát hành chính thức tại Việt nam  vào năm 1991, số Phật tử  Việt nam học được 5 bộ kinh Nikaya.quá ít.Nhờ  có Internet nên kinh Nikaya được quảng bá rộng rãi nên có nhiều người biết và học hỏi.  
+
 Tác giả hy vọng người học Phật nên tìm kiếm 5 bộ kinh Nikaya học sẽ có chánh kiến sanh khởi.Khi nhập 5 bộ kinh Nikaya đưa vào tâm qua mắt, qua tai rất khó, không phải ai cũng nhập được .Giai đoạn đầu tiên  nhập vào tai hay mắt được gọi là trí văn.Giai đoạn hai cần suy nghĩ để hiểu những gì đã học thuộc gọi là trí tư, có nhiều người không thể nào suy tư được nên phát sanh ra tin những gì kinh viết. Giai đoạn ba là thực hành những gì đã suy tư rồi xem xét có đúng hay không, phần thực hành cũng ít ai làm được .Mặc dù có 5 bộ kinh cũng không có mấy ai chứng Thánh được.   
+
 Hơn nữa trong cuộc đời  này, chúng ta sướng hay khổ tùy vào những gì chúng ta đã nhập từ khi chào đời cho đến khi trưởng thành..Những niềm tin về tôn giáo hay triết học này hay triết học nọ, hay những kiến thủ là do đã được nhập vào tâm qua cửa sổ mắt hay cửa sổ tai sanh ra cái biết rồi sanh ra xúc rồi sanh ra thọ lạc rồi sanh ra sắc ai, thành ái rồi sanh ra kiến thủ, niềm tin, tôn giáo v.v..
  
 #### (1) Mắt & Sắc.
@@ -159,9 +257,16 @@ Dưa đoạn kinh sau đây.
 ”Do duyên mắt và các sắc, thức sanh, và thức ấy có tên là nhãn thức. Này các Tỳ-kheo, do duyên nào lửa sanh và lửa ấy có tên tùy theo duyên ấy: duyên củi, lửa sanh, lửa ấy gọi là lửa củi.” 
 ```
 
-Mắt là cơ quan hay công cụ, như một kính hội tụ có hai nhiệm vụ : Nhiệm vụ 1 là để thâu vào những gì mà mắt thấy.để sanh ra nhãn thức như đoạn kinh trên và nhiệm vụ 2 là để tâm biểu lộ ra như lửa củi . Sắc  là đối tượng của mắt, những cái gì mắt thấy được gọi là sắc. Thông thường sắc là  hình dáng, hình tướng của con người hay của sự vật hay cảnh thiên nhiên hay thực vật. Sắc là sự vật có thật liên hệ đến vật chất.
+Mắt là cơ quan hay công cụ, như một kính hội tụ có hai nhiệm vụ:  
 
-Nếu sắc là kinh sách không phải là vật thật nên cẩn thận khi nhập vào mắt vì nó sẽ sanh ra phiền não vì nó chỉ là những ký tự không phải sự vật thật khi đọc kinh sách cần chứng nghiệm danh từ đó có biểu thị sự thật hay không ?  Những vị nào thường đọc sách sẽ sanh ra cái tưởng tưởng rất nhiều nên nghĩ mình biết này biết nọ nhưng thật ra những cái tưởng đó không đúng với thực tại.Những tai hại do đọc kinh sách rất nhiều còn cái lợi có nhưng rất ít. Hãy đọc kinh sách ít nhưng cần chứng nghiệm chứ không phải ngồi  tưởng hay tin vào kinh sách sẽ hại cho bản thân.
+(1) Nhiệm vụ 1 là để thâu vào những gì mà mắt thấy.để sanh ra nhãn thức như đoạn kinh trên  
+(2) và nhiệm vụ 2 là để tâm biểu lộ ra như lửa củi.  
+
+Sắc  là đối tượng của mắt, những cái gì mắt thấy được gọi là sắc. Thông thường sắc là  hình dáng, hình tướng của con người hay của sự vật hay cảnh thiên nhiên hay thực vật. Sắc là sự vật có thật liên hệ đến vật chất.
+
+Nếu sắc là kinh sách không phải là vật thật nên cẩn thận khi nhập vào mắt vì nó sẽ sanh ra phiền não vì nó chỉ là những ký tự không phải sự vật thật khi đọc kinh sách cần chứng nghiệm danh từ đó có biểu thị sự thật hay không?  
+
+Những vị nào thường đọc sách sẽ sanh ra cái tưởng tưởng rất nhiều nên nghĩ mình biết này biết nọ nhưng thật ra những cái tưởng đó không đúng với thực tại.Những tai hại do đọc kinh sách rất nhiều còn cái lợi có nhưng rất ít. Hãy đọc kinh sách ít nhưng cần chứng nghiệm chứ không phải ngồi  tưởng hay tin vào kinh sách sẽ hại cho bản thân.
 
 #### (2) Tai & Thanh
 
@@ -213,44 +318,84 @@ Thông thường muốn biết người nào có Chánh kiến hay Tà kiến c�
 #### Tà kiến.
 Thủ là nắm giữ, kiến thủ là nắm giữ những quan điểm sai lầm .Kiến thủ cũng là tà kiến.
  
-Nguyên nhân gần của thủ là duyên Ái, nguyên nhân xa hơn nữa là duyên Lục nhập và nguyên nhân xa nhất là duyên Hành.Như vậy nếu quá khứ mà tà kiến sẽ dẫn đến duyên lục nhập như mắt nhập kinh sách tà kiến hoặc tai nhập những lời giảng tà kiến dẫn đến sắc ái và thanh ái cuối cùng thành kiến thủ (tà kiến)
-Cách bỏ tà kiến duy nhất là quan  sát Lý duyên khởi biết rằng từ duyên lục nhập sanh khởi ra thức, từ thức duyên khởi  ra xúc, từ xúc duyên khởi ra thọ, từ thọ duyên khởi ra ái, từ ái duyên khởi  ra kiến thủ.Nếu ai thấy được như vậy tà kiến sẽ biến mất..
-Trong Phật giáo ngày nay có những người nhân danh là đệ tử Phật nhưng có tà kiến do duyên  nhập kinh mà không phải do một Đức Phật Toàn giác thuyết rồi đọc kinh đó lâu ngày  sinh ra thọ lạc rồi sinh ra ái  rồi sinh ra kiến thủ. Từ cái tưởng đó và cho rằng  kinh đó là chân lý, là đúng vì không biết lý duyên khởi.Hơn nữa không chứng nghiệm những gì Đức Phật đã thuyết mà chỉ tin vào những lời trong kinh một cách mù quáng nên tà kiến sanh khởi. Học Phật cần  phải chứng nghiệm chứ không phải tin nhưng đa số chỉ tin vì vậy trong đạo Phật  có  những người nhân danh là  Phật tử mà tà kiến quá nhiều là vậy.
-Tất cả ai học Phật cần quan sát duyên lục nhập đặc biệt là mắt và tai lúc ban đầu nhập  những dữ kiện, những thông tin từ  sắc (kinh, sách,mạng ..), từ  âm thanh ( những lời giảng , những máy phát ra tiếng v.v..) .Những thông tin đó biến  thành cái biết  rồi chuyển đổi qua Xúc rồi tiếp tục chuyện qua cảm thọ lạc rồi  tiếp tục chuyển qua Sắc Ái ( ưa thích) thông tin đó rồi chuyển qua chấp chặt vào những  kinh sách đã được nhập vào mắt  hay vào tai mà không hay biết rằng mình đã có tà kiến .
+Nguyên nhân gần của thủ là duyên Ái, nguyên nhân xa hơn nữa là duyên Lục nhập và nguyên nhân xa nhất là duyên Hành.Như vậy nếu quá khứ mà tà kiến sẽ dẫn đến duyên lục nhập như mắt nhập kinh sách tà kiến hoặc tai nhập những lời giảng tà kiến dẫn đến sắc ái và thanh ái cuối cùng thành kiến thủ (tà kiến)  
+
+Cách bỏ tà kiến duy nhất là quan  sát Lý duyên khởi biết rằng từ duyên lục nhập sanh khởi ra thức, từ thức duyên khởi  ra xúc, từ xúc duyên khởi ra thọ, từ thọ duyên khởi ra ái, từ ái duyên khởi  ra kiến thủ.Nếu ai thấy được như vậy tà kiến sẽ biến mất..   
+
+Trong Phật giáo ngày nay có những người nhân danh là đệ tử Phật nhưng có tà kiến do duyên  nhập kinh mà không phải do một Đức Phật Toàn giác thuyết rồi đọc kinh đó lâu ngày  sinh ra thọ lạc rồi sinh ra ái  rồi sinh ra kiến thủ. Từ cái tưởng đó và cho rằng  kinh đó là chân lý, là đúng vì không biết lý duyên khởi.Hơn nữa không chứng nghiệm những gì Đức Phật đã thuyết mà chỉ tin vào những lời trong kinh một cách mù quáng nên tà kiến sanh khởi. Học Phật cần  phải chứng nghiệm chứ không phải tin nhưng đa số chỉ tin vì vậy trong đạo Phật  có  những người nhân danh là  Phật tử mà tà kiến quá nhiều là vậy.  
+
+Tất cả ai học Phật cần quan sát duyên lục nhập đặc biệt là mắt và tai lúc ban đầu nhập  những dữ kiện, những thông tin từ  sắc (kinh, sách,mạng ..), từ  âm thanh ( những lời giảng , những máy phát ra tiếng v.v..) .Những thông tin đó biến  thành cái biết  rồi chuyển đổi qua Xúc rồi tiếp tục chuyện qua cảm thọ lạc rồi  tiếp tục chuyển qua Sắc Ái ( ưa thích) thông tin đó rồi chuyển qua chấp chặt vào những  kinh sách đã được nhập vào mắt  hay vào tai mà không hay biết rằng mình đã có tà kiến.  
 
 #### Chánh kiến.
 Nếu sanh ra trong đời này mà nhập được Tứ Thánh đế là có chánh kiến, nếu không có chánh kiến là vô minh thì luân hồi dài dài trong tam giới.Người Việt nam may mắn có năm bộ kinh Nikaya theo thời gian sẽ có nhiều học được Tứ Thánh đế sẽ có chánh kiến sanh khởi
 
 ```
 (III) (93) Kiến
-1. Một thời, Thế Tôn trú ở Sàvatthi, Jetavana, tại khu vườn Anàthapindika. Bấy giờ có Gia chủ Anàthapindika, vào buổi sáng thật sớm đi ra khỏi Sàvatthi để yết kiến Thế Tôn. Rồi Gia chủ Anàthapindika suy nghĩ: "Nay không phải thời để yết kiến Thế Tôn. Thế Tôn đang Thiền tịnh. Cũng không phải thời để yến kiến các vị Tỷ-kheo đang tu tập về ý, các Tỷ-kheo tu tập về ý đang Thiền tịnh. Vậy ta hãy đi đến khu vườn các du sĩ ngoại đạo". Rồi Gia chủ Anàthapindika đi đến khu vườn các du sĩ ngoại đạo.
-2. Lúc bấy giờ, các du sĩ ngoại đạo đang ngồi hội họp, đang tụ họp ồn ào, cao tiếng, lớn tiếng bàn luận những vấn đề phù phiếm. Các du sĩ ngoại đạo ấy thấy Gia chủ Anàthapindika từ xa đi đến, khi thấy vậy liền dặn dò bảo với nhau: "Hãy bớt ồn ào, các Tôn giả chớ có làm ồn, các Tôn giả. Gia chủ Anàthapindika này đang đến, một đệ tử của Sa-môn Gotama, trong những đệ tử của Sa-môn Gotama có gia đình mặc áo trắng ở Sàvatthi, Gia chủ Anàthapindika là một trong những vị ấy. Các vị ấy ít ưa ồn ào, được huấn luyện trong ít ồn ào, tán thán ít ồn ào. Nếu vị ấy thấy hội chúng ít ồn ào, vị ấy có thể nghĩ đến thăm ở đây". Rồi các du sĩ ngoại đạo ấy giữ im lặng.
-3. Rồi Gia chủ Anàthapinidika đi đến các du sĩ đạo ấy, sau khi đến, nói lên với các du sĩ ngoại đạo ấy những lời chào đón hỏi thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên. Các du sĩ ngoại đạo ấy nói với Gia chủ Anàthapidika đang ngồi một bên:
-- Này Gia chủ, hãy nói lên Sa-môn Gotama có kiến gì?
-- Thưa các Tôn giả, tôi không biết tất cả kiến của Thế Tôn.
-- Này Gia chủ, Gia chủ có thể không biết tất cả kiến của Sa-môn Gotama. Nhưng này Gia chủ, hãy nói các Tỷ-kheo có kiến gì?
-- Thưa các Tôn giả, tôi không biết tất cả kiến của các Tỷ-kheo.
-- Này Gia chủ, Gia chủ có thể không biết tất cả kiến của Sa-môn Gotama, Gia chủ có thể không biết tất cả kiến của các Tỷ-kheo. Vậy này Gia chủ, hãy nói về kiến của Gia chủ.
-- Thưa các Tôn giả, thật không khó gì để chúng tôi trả lời về kiến của chúng tôi. Nhưng các Tôn giả hãy trả lời về kiến của các Tôn giả trước. Rồi sau thật không khó gì để chúng tôi trả lời về kiến của chúng tôi.
-4. Khi được nói vậy, một du sĩ ngoại đạo nói với Gia chủ Anàthapindika: "Thường còn là thế giới. Kiến này là sự thật. Kiến nào khác là hư vọng. Này Gia chủ, như vậy là kiến của tôi". Một du sĩ ngoại đạo khác nói với Gia chủ Anàthapindika: "Vô thường là thế giới. Kiến này là sự thật. Kiến nào khác là hư vọng. Như vậy là kiến của tôi." Rồi một du sĩ ngoại đạo khác nói với Gia chủ Anàthapindika: "Có biên tế là thế giới... không có biên tế là thế giới... mạng sống và thân thể là một... mạng sống và thân thể là khác... Như Lai có tồn tại sau khi chết... Như Lai không có tồn tại sau khi chết... Như Lai có tồn tại và không có tồn tại sau khi chết... Như Lai không có tồn tại và không không có tồn tại sau khi chết. Kiến này là sự thật. Kiến nào khác là hư vọng. Này Gia chủ, như vậy là kiến của tôi".
-5. Khi nghe nói vậy, Gia chủ Anàthapindika nói với các du sĩ ngoại đạo ấy:
-- Thưa các Tôn giả, Tôn giả nào nói như sau: "Thường còn là thế giới. Kiến này là sự thật. Kiến nào khác là hư vọng. Này Gia chủ, như vậy là kiến của tôi". Kiến này của Tôn giả ấy, hoặc nhân tự mình tác ý không hợp lý, hay do duyên nghe tiếng người khác nói. Kiến ấy như vậy được sanh, được tác thành (hữu vi) do tâm suy tư, do duyên khởi lên. Và cái gì được sanh, được tác thành, do tâm suy tư, do duyên khởi lên, cái ấy là vô thường; cái gì vô thường, cái ấy là khổ; cái (khổ) ấy, Tôn giả chấp trước (dính vào); cái (khổ) ấy, Tôn giả chấp nhận. Thưa các Tôn giả, Tôn giả nào nói như sau: "Vô thường là thế giới này... có biên tế là thế giới này... không biên tế là thế giới này...sinh mạng và thân thể là một... sinh mạng và thân thể là khác... Như Lai có tồn tại sau khi chết... Như Lai không tồn tại sau khi chết... Như Lai không có tồn tại và không không tồn tại sau khi chết. Kiến này là sự thật. Kiến nào khác là hư vọng. Này Gia chủ, như vậy là kiến của tôi". Kiến này của Tôn giả ấy, hoặc nhân tự mình tác ý không hợp lý, hoặc do duyên nghe tiếng người khác nói. Kiến như vậy được sanh, được tác thành, do tâm suy tư, do duyên khởi lên. Và cái gì được sanh, được tác thành, do tâm suy tư, do duyên khởi lên, cái ấy là vô thường; cái gì vô thường, cái ấy là khổ; cái (khổ) ấy, Tôn giả chấp trước; cái khổ ấy, Tôn giả chấp nhận.
-6. Khi được nói vậy, các du sĩ ngoại đạo ấy nói với Gia chủ Anàthapindika:
-- Này Gia chủ, tất cả kiến của chúng tôi đã được nói lên. Này Gia chủ, hãy nói lên kiến của Gia chủ là gì?
-- Thưa các Tôn giả, phàm cái gì được sanh, được tác thành do tâm suy tư, do duyên được khởi lên, cái ấy là vô thường. Cái gì vô thường, cái ấy là khổ. Cái gì là khổ, cái ấy là "Cái này không phải của tôi, cái này không phải là tôi, cái này không phải tự ngã của tôi." Tôi có kiến như vậy, thưa các Tôn giả.
-- Này Gia chủ, phàm cái gì được sanh, được tác thành, do tâm suy tư, do duyên được khởi lên, cái ấy là vô thường. Cái gì vô thường, cái ấy là khổ. Cái gì là khổ, cái ấy, này Gia chủ, Gia chủ lại chấp trước, cái ấy, này Gia chủ, Gia chủ lại chấp nhận.
-- Thưa các Tôn giả, phàm cái gì được sanh, được tác thành, do tâm suy tư, do duyên được khởi lên, cái ấy là vô thường. Cái gì vô thường, cái ấy là khổ. Cái gì khổ, cái ấy là: "Cái này không phải của tôi, cái này không phải là tôi, cái này không phải tự ngã của tôi". Như vậy là như thật khéo thấy với chánh trí tuệ. Và từ nơi khổ ấy, tôi như thật rõ biết sự xuất ly hơn thế nữa.
-Khi nghe nói như vậy, các du sĩ ngoại đạo ấy ngồi im lặng, hoang mang, thụt vai, cúi đầu, sửng sờ, không nói lên lời.
-7. Rồi Gia chủ Anàthapinika, sau khi biết các du sĩ ngoại đạo ấy im lặng, hoang mang, thụt vai, cúi đầu, sửng sờ, không nói lên lời, từ chỗ ngồi đứng dậy, đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi xuống một bên. Ngồi xuống một bên, Gia chủ Anàthapindika, câu chuyện với các du sĩ ngoại đạo ấy như thế nào, đều thuật lại tất cả cho Thế Tôn rõ.
-- "Lành thay, lành thay, này Gia chủ. Như vậy, này Gia chủ, những kẻ ngu si ấy thường cần phải được bác bỏ với sự khéo bác bỏ nhờ Chánh pháp". Rồi Thế Tôn với một bài pháp thuyết giảng, khích lệ, làm cho phấn khởi, làm cho hoan hỷ Gia chủ Anàthapindika. Rồi Gia chủ Anàthapindika, sau khi được Thế Tôn với bài pháp thuyết giảng, khích lệ, làm cho phấn khởi, làm cho hoan hỷ, từ chỗ ngồi đứng dậy đảnh lễ Thế Tôn, thân bên hữu hướng về Ngài rồi ra đi.
-8. Rồi Thế Tôn, sau khi Gia chủ Anàthapindika ra đi không bao lâu, bảo các vị Tỷ-kheo:
+1. Một thời, Thế Tôn trú ở Sàvatthi, Jetavana, tại khu vườn Anàthapindika. Bấy giờ có Gia chủ Anàthapindika, vào buổi sáng thật sớm đi ra khỏi Sàvatthi để yết kiến Thế Tôn. Rồi Gia chủ Anàthapindika suy nghĩ:   
+ 
+ "Nay không phải thời để yết kiến Thế Tôn. Thế Tôn đang Thiền tịnh. Cũng không phải thời để yến kiến các vị Tỷ-kheo đang tu tập về ý, các Tỷ-kheo tu tập về ý đang Thiền tịnh. Vậy ta hãy đi đến khu vườn các du sĩ ngoại đạo". Rồi Gia chủ Anàthapindika đi đến khu vườn các du sĩ ngoại đạo.
+
+2. Lúc bấy giờ, các du sĩ ngoại đạo đang ngồi hội họp, đang tụ họp ồn ào, cao tiếng, lớn tiếng bàn luận những vấn đề phù phiếm. Các du sĩ ngoại đạo ấy thấy Gia chủ Anàthapindika từ xa đi đến, khi thấy vậy liền dặn dò bảo với nhau: "Hãy bớt ồn ào, các Tôn giả chớ có làm ồn, các Tôn giả. Gia chủ Anàthapindika này đang đến, một đệ tử của Sa-môn Gotama, trong những đệ tử của Sa-môn Gotama có gia đình mặc áo trắng ở Sàvatthi, Gia chủ Anàthapindika là một trong những vị ấy. Các vị ấy ít ưa ồn ào, được huấn luyện trong ít ồn ào, tán thán ít ồn ào. Nếu vị ấy thấy hội chúng ít ồn ào, vị ấy có thể nghĩ đến thăm ở đây". Rồi các du sĩ ngoại đạo ấy giữ im lặng.  
+   
+3. Rồi Gia chủ Anàthapinidika đi đến các du sĩ đạo ấy, sau khi đến, nói lên với các du sĩ ngoại đạo ấy những lời chào đón hỏi thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên. Các du sĩ ngoại đạo ấy nói với Gia chủ Anàthapidika đang ngồi một bên:  
+   
+- Này Gia chủ, hãy nói lên Sa-môn Gotama có kiến gì?   
+- Thưa các Tôn giả, tôi không biết tất cả kiến của Thế Tôn.  
+- Này Gia chủ, Gia chủ có thể không biết tất cả kiến của Sa-môn Gotama. Nhưng này Gia chủ, hãy nói các Tỷ-kheo có kiến gì?  
+- Thưa các Tôn giả, tôi không biết tất cả kiến của các Tỷ-kheo.  
+- Này Gia chủ, Gia chủ có thể không biết tất cả kiến của Sa-môn Gotama, Gia chủ có thể không biết tất cả kiến của các Tỷ-kheo. Vậy này Gia chủ, hãy nói về kiến của Gia chủ.  
+- Thưa các Tôn giả, thật không khó gì để chúng tôi trả lời về kiến của chúng tôi. Nhưng các Tôn giả hãy trả lời về kiến của các Tôn giả trước. Rồi sau thật không khó gì để chúng tôi trả lời về kiến của chúng tôi.  
+
+4. Khi được nói vậy, một du sĩ ngoại đạo nói với Gia chủ Anàthapindika:  
+
+"Thường còn là thế giới. Kiến này là sự thật. Kiến nào khác là hư vọng. Này Gia chủ, như vậy là kiến của tôi".  
+
+Một du sĩ ngoại đạo khác nói với Gia chủ Anàthapindika:  
+
+"Vô thường là thế giới. Kiến này là sự thật. Kiến nào khác là hư vọng. Như vậy là kiến của tôi."  
+
+Rồi một du sĩ ngoại đạo khác nói với Gia chủ Anàthapindika:  
+
+"Có biên tế là thế giới... không có biên tế là thế giới... mạng sống và thân thể là một... mạng sống và thân thể là khác... Như Lai có tồn tại sau khi chết... Như Lai không có tồn tại sau khi chết... Như Lai có tồn tại và không có tồn tại sau khi chết... Như Lai không có tồn tại và không không có tồn tại sau khi chết. Kiến này là sự thật. Kiến nào khác là hư vọng. Này Gia chủ, như vậy là kiến của tôi".   
+   
+5. Khi nghe nói vậy, Gia chủ Anàthapindika nói với các du sĩ ngoại đạo ấy:  
+
+- Thưa các Tôn giả, Tôn giả nào nói như sau:  
+ 
+"Thường còn là thế giới. Kiến này là sự thật. Kiến nào khác là hư vọng. Này Gia chủ, như vậy là kiến của tôi".  
+
+Kiến này của Tôn giả ấy, hoặc nhân tự mình tác ý không hợp lý, hay do duyên nghe tiếng người khác nói. Kiến ấy như vậy được sanh, được tác thành (hữu vi) do tâm suy tư, do duyên khởi lên. Và cái gì được sanh, được tác thành, do tâm suy tư, do duyên khởi lên, cái ấy là vô thường; cái gì vô thường, cái ấy là khổ; cái (khổ) ấy, Tôn giả chấp trước (dính vào); cái (khổ) ấy, Tôn giả chấp nhận.  
+
+Thưa các Tôn giả, Tôn giả nào nói như sau:  
+
+"Vô thường là thế giới này... có biên tế là thế giới này... không biên tế là thế giới này...sinh mạng và thân thể là một... sinh mạng và thân thể là khác... Như Lai có tồn tại sau khi chết... Như Lai không tồn tại sau khi chết... Như Lai không có tồn tại và không không tồn tại sau khi chết. Kiến này là sự thật. Kiến nào khác là hư vọng. Này Gia chủ, như vậy là kiến của tôi".  
+
+Kiến này của Tôn giả ấy, hoặc nhân tự mình tác ý không hợp lý, hoặc do duyên nghe tiếng người khác nói. Kiến như vậy được sanh, được tác thành, do tâm suy tư, do duyên khởi lên. Và cái gì được sanh, được tác thành, do tâm suy tư, do duyên khởi lên, cái ấy là vô thường; cái gì vô thường, cái ấy là khổ; cái (khổ) ấy, Tôn giả chấp trước; cái khổ ấy, Tôn giả chấp nhận.  
+
+6. Khi được nói vậy, các du sĩ ngoại đạo ấy nói với Gia chủ Anàthapindika:  
+- Này Gia chủ, tất cả kiến của chúng tôi đã được nói lên. Này Gia chủ, hãy nói lên kiến của Gia chủ là gì?  
+- Thưa các Tôn giả, phàm cái gì được sanh, được tác thành do tâm suy tư, do duyên được khởi lên, cái ấy là vô thường. Cái gì vô thường, cái ấy là khổ. Cái gì là khổ, cái ấy là "Cái này không phải của tôi, cái này không phải là tôi, cái này không phải tự ngã của tôi."  Tôi có kiến như vậy, thưa các Tôn giả.  
+
+- Này Gia chủ, phàm cái gì được sanh, được tác thành, do tâm suy tư, do duyên được khởi lên, cái ấy là vô thường. Cái gì vô thường, cái ấy là khổ. Cái gì là khổ, cái ấy, này Gia chủ, Gia chủ lại chấp trước, cái ấy, này Gia chủ, Gia chủ lại chấp nhận.   
+- Thưa các Tôn giả, phàm cái gì được sanh, được tác thành, do tâm suy tư, do duyên được khởi lên, cái ấy là vô thường. Cái gì vô thường, cái ấy là khổ. Cái gì khổ, cái ấy là: "Cái này không phải của tôi, cái này không phải là tôi, cái này không phải tự ngã của tôi". Như vậy là như thật khéo thấy với chánh trí tuệ. Và từ nơi khổ ấy, tôi như thật rõ biết sự xuất ly hơn thế nữa.  Khi nghe nói như vậy, các du sĩ ngoại đạo ấy ngồi im lặng, hoang mang, thụt vai, cúi đầu, sửng sờ, không nói lên lời.
+
+ 
+7. Rồi Gia chủ Anàthapinika, sau khi biết các du sĩ ngoại đạo ấy im lặng, hoang mang, thụt vai, cúi đầu, sửng sờ, không nói lên lời, từ chỗ ngồi đứng dậy, đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi xuống một bên. Ngồi xuống một bên, Gia chủ Anàthapindika, câu chuyện với các du sĩ ngoại đạo ấy như thế nào, đều thuật lại tất cả cho Thế Tôn rõ.  
+
+- "Lành thay, lành thay, này Gia chủ. Như vậy, này Gia chủ, những kẻ ngu si ấy thường cần phải được bác bỏ với sự khéo bác bỏ nhờ Chánh pháp". Rồi Thế Tôn với một bài pháp thuyết giảng, khích lệ, làm cho phấn khởi, làm cho hoan hỷ Gia chủ Anàthapindika. Rồi Gia chủ Anàthapindika, sau khi được Thế Tôn với bài pháp thuyết giảng, khích lệ, làm cho phấn khởi, làm cho hoan hỷ, từ chỗ ngồi đứng dậy đảnh lễ Thế Tôn, thân bên hữu hướng về Ngài rồi ra đi.  
+  
+8. Rồi Thế Tôn, sau khi Gia chủ Anàthapindika ra đi không bao lâu, bảo các vị Tỷ-kheo:  
 - Tỷ-kheo nào dầu đã được đầy đủ 100 năm an cư mùa mưa trong Pháp và Luật này, vị ấy cần phải như vậy, thường thường bác bỏ các du sĩ ngoại đạo, với sự khéo bác bỏ nhờ Chánh pháp, như Gia chủ Anàhtapindika đã khéo bác bỏ.
 ```
  
  
  ### Kết luận Lục Nhập
  
-Duyên lục nhập này rất quan trọng nếu những hành giả không nhận biết thì rất khó tu tập và bỏ được dục thủ, kiến thủ, ngã luận thủ, giới cấm thủ. Đặc biệt duyên thọ sanh khởi không biết vì sao có thọ lạc hay thọ khổ.Thông thường những ai không học lý 12 nhân duyên rất khó phá tan sự chấp thủ. Nguyên nhân xa sanh thủ chinh là duyên lục nhập và giáo dục một đứa trẻ thành người tốt hay xấu tùy vào lúc còn trẻ đến khi trưởng thành nhập những cảnh sắc, cảnh thanh, cảnh hương, cảnh vị, cảnh xúc, cảnh pháp vào tâm qua cửa sổ mắt, qua cửa sổ tai, qua cửa sổ mũi, qua cửa sổ lưỡi, qua cửa sổ thân, qua cửa số ý Những cảnh bên ngoài sẽ tàn phá sáu cái làng trống nên nhập nhiều hại nhiều hơn lợi .Hành giả Phật giáo nên biết như vậy chỉ nhập cái gì cần thiết như bài kinh lá rừng Simsapa để chấm dứt khổ. Nếu không biết nhập vào 6 làng trống với những lá trong rừng không giúp cho sự giải thoát chỉ kéo dài sự luân hồi.
+Duyên lục nhập này rất quan trọng nếu những hành giả không nhận biết thì rất khó tu tập và bỏ được dục thủ, kiến thủ, ngã luận thủ, giới cấm thủ. Đặc biệt duyên thọ sanh khởi không biết vì sao có thọ lạc hay thọ khổ.Thông thường những ai không học lý 12 nhân duyên rất khó phá tan sự chấp thủ.  
+
+Nguyên nhân xa sanh thủ chinh là duyên lục nhập và giáo dục một đứa trẻ thành người tốt hay xấu tùy vào lúc còn trẻ đến khi trưởng thành nhập những cảnh sắc, cảnh thanh, cảnh hương, cảnh vị, cảnh xúc, cảnh pháp vào tâm qua cửa sổ mắt, qua cửa sổ tai, qua cửa sổ mũi, qua cửa sổ lưỡi, qua cửa sổ thân, qua cửa số ý Những cảnh bên ngoài sẽ tàn phá sáu cái làng trống nên nhập nhiều hại nhiều hơn lợi.  
+
+Hành giả Phật giáo nên biết như vậy chỉ nhập cái gì cần thiết như bài kinh lá rừng Simsapa để chấm dứt khổ. Nếu không biết nhập vào 6 làng trống với những lá trong rừng không giúp cho sự giải thoát chỉ kéo dài sự luân hồi.
 
 ## 4. Thức hiện tại.
 
@@ -261,7 +406,21 @@ Trong 12 nhân duyên có hai thức:
 Sáu thức quá khứ đã bàn thảo rồi trong [Chương 1 Nghiệp cũ](/sach4td-c1), còn [Chương 2 - Quả khổ hiện tại](/sach4td-c2) bàn về sáu thức hiện tại.
 
 ```
-Này các Tỷ-kheo, do duyên nào lửa sanh và lửa ấy có tên tùy theo duyên ấy: duyên củi, lửa sanh, lửa ấy gọi là lửa củi Duyên vỏ gỗ bào, lửa sanh, lửa ấy gọi là lửa vỏ bào. Duyên cỏ, lửa sanh, lửa ấy gọi là lửa cỏ. Duyên phân bò, lửa sanh, lửa ấy gọi là lửa phân bò. Duyên trấu, lửa sanh, lửa ấy gọi là lửa trấu. Duyên đống rác, lửa sanh, lửa ấy gọi là lửa đống rác. Cũng vậy, này các Tỷ-kheo, do duyên, thức sanh, và thức ấy có tên tùy theo duyên ấy. Do duyên mắt và các sắc, thức sanh, và thức ấy có tên là nhãn thức. Do duyên tai và các tiếng, thức sanh, và thức ấy có tên là nhĩ thức. Do duyên mũi và các hương, thức sanh, và thức ấy có tên và tỷ thức. Do duyên lưỡi và các vị, thức sanh, và thức ấy có tên là thiệt thức. Do duyên thân và các xúc, thức sanh, và thức ấy có tên là thân thức. Do duyên ý và các pháp, thức sanh, và thức ấy có tên là ý thức.
+Này các Tỷ-kheo, do duyên nào lửa sanh và lửa ấy có tên tùy theo duyên ấy:  
+Duyên củi, lửa sanh, lửa ấy gọi là lửa củi.  
+Duyên vỏ gỗ bào, lửa sanh, lửa ấy gọi là lửa vỏ bào.  
+Duyên cỏ, lửa sanh, lửa ấy gọi là lửa cỏ.  
+Duyên phân bò, lửa sanh, lửa ấy gọi là lửa phân bò.  
+Duyên trấu, lửa sanh, lửa ấy gọi là lửa trấu.  
+Duyên đống rác, lửa sanh, lửa ấy gọi là lửa đống rác.  
+
+Cũng vậy, này các Tỷ-kheo, do duyên, thức sanh, và thức ấy có tên tùy theo duyên ấy.   
+(1) Do duyên mắt và các sắc, thức sanh, và thức ấy có tên là nhãn thức.  
+(2) Do duyên tai và các tiếng, thức sanh, và thức ấy có tên là nhĩ thức.  
+(3) Do duyên mũi và các hương, thức sanh, và thức ấy có tên và tỷ thức.  
+(4) Do duyên lưỡi và các vị, thức sanh, và thức ấy có tên là thiệt thức.  
+(5) Do duyên thân và các xúc, thức sanh, và thức ấy có tên là thân thức.  
+(6) Do duyên ý và các pháp, thức sanh, và thức ấy có tên là ý thức. 
 
 ```
 
@@ -388,12 +547,25 @@ Này các Tỳ-kheo, duyên đống rác, lửa sanh, lửa ấy gọi là lửa
 **Thế nào là Xúc ?**  
 
 ```
-Khi được nói đến: "Sáu xúc thân cần phải được biết", do duyên gì được nói đến như vậy? Do duyên mắt và do duyên các sắc, khởi lên nhãn thức. Sự gặp gỡ của ba pháp này là xúc. Do duyên tai và do duyên các tiếng, khởi lên nhĩ thức. Sự gặp gỡ của ba pháp này là xúc. Do duyên mũi và do duyên các hương, khởi lên tỷ thức. Sự gặp gỡ của ba pháp này là xúc. Do duyên lưỡi và do duyên các vị, khởi lên thiệt thức. Sự gặp gỡ của ba pháp này là xúc. Do duyên thân và do duyên các xúc, khởi lên thân thức. Sự gặp gỡ của ba pháp này là xúc. Do duyên ý và do duyên các pháp, khởi lên ý thức. Sự gặp gỡ của ba pháp này là xúc. Khi được nói đến: "Sáu xúc thân cần phải được biết", chính do duyên này được nói đến như vậy.(kinh số 148 kinh trung bộ)
+Khi được nói đến: "Sáu xúc thân cần phải được biết", do duyên gì được nói đến như vậy?  
+
+(1) Do duyên mắt và do duyên các sắc, khởi lên nhãn thức. Sự gặp gỡ của ba pháp này là xúc.  
+
+(2) Do duyên tai và do duyên các tiếng, khởi lên nhĩ thức. Sự gặp gỡ của ba pháp này là xúc.  
+
+(3) Do duyên mũi và do duyên các hương, khởi lên tỷ thức. Sự gặp gỡ của ba pháp này là xúc.  
+
+(4) Do duyên lưỡi và do duyên các vị, khởi lên thiệt thức. Sự gặp gỡ của ba pháp này là xúc.  
+
+(5) Do duyên thân và do duyên các xúc, khởi lên thân thức. Sự gặp gỡ của ba pháp này là xúc.  
+
+(6) Do duyên ý và do duyên các pháp, khởi lên ý thức. Sự gặp gỡ của ba pháp này là xúc. Khi được nói đến: "Sáu xúc thân cần phải được biết", chính do duyên này được nói đến như vậy.(kinh số 148 kinh trung bộ)
 
 ```
-Dựa theo định nghĩa trên  có thể  hiểu do duyên lục nhập sanh khởi sáu thức , do duyên sáu thức sanh sáu xúc có thể diễn đạt lại theo một cách khác dễ hiểu hơn.Từ sự gặp gỡ ba pháp, thật sự chỉ còn là sự xúc chạm giữa hai vế : Vế thứ nhất là tập hợp những  ảnh cũ mà tất cả những gì đã được  thâu vào tâm  từ  lúc nhỏ cho đến khi  trưởng thành và vế thứ  hai  là những ảnh mới mà  vừa thâu vào  qua sáu giác quan.
+Dựa theo định nghĩa trên  có thể  hiểu do duyên lục nhập sanh khởi sáu thức , do duyên sáu thức sanh sáu xúc có thể diễn đạt lại theo một cách khác dễ hiểu hơn.Từ sự gặp gỡ ba pháp, thật sự chỉ còn là sự xúc chạm giữa hai vế : Vế thứ nhất là tập hợp những  ảnh cũ mà tất cả những gì đã được  thâu vào tâm  từ  lúc nhỏ cho đến khi  trưởng thành và vế thứ  hai  là những ảnh mới mà  vừa thâu vào  qua sáu giác quan.  
 
-Có sáu sự xúc chạm giữa 6 ảnh cũ và 6 ảnh mới  mà thời gian  khác nhau, không cùng một lúc : ý xúc đến tức thì vì không có khoảng cách giữa ý và pháp, nhãn xúc đến  nhanh nhất do tốc độ ảnh sắc đưa vào tâm quá nhanh, nhĩ xúc đến khá nhanh do tốc độ âm thanh khá nhanh, thân Xúc nhanh vì khoảng cách giữa thân và cảnh xúc khá gần, tỷ xúc cũng nhanh do tốc độ gió cũng nhanh nên thời gian để hương vào tâm không lâu, thiệt xúc là chậm nhất do tùy ta đưa vị vào lưỡi bằng đôi đũa khá chậm.Duyên xúc luôn luôn có do vì đã có sáu nội xứ và 6 ảnh cũ (tích lũy từ nhỏ đến  lớn) sẽ xúc chạm với  sáu ngoại xứ  nhưng  không bắt buộc  nên sự xúc chạm có thể  giảm thiểu sẽ bớt khổ..
+Có sáu sự xúc chạm giữa 6 ảnh cũ và 6 ảnh mới  mà thời gian  khác nhau, không cùng một lúc : ý xúc đến tức thì vì không có khoảng cách giữa ý và pháp, nhãn xúc đến  nhanh nhất do tốc độ ảnh sắc đưa vào tâm quá nhanh, nhĩ xúc đến khá nhanh do tốc độ âm thanh khá nhanh, thân Xúc nhanh vì khoảng cách giữa thân và cảnh xúc khá gần, tỷ xúc cũng nhanh do tốc độ gió cũng nhanh nên thời gian để hương vào tâm không lâu, thiệt xúc là chậm nhất do tùy ta đưa vị vào lưỡi bằng đôi đũa khá chậm.Duyên xúc luôn luôn có do vì đã có sáu nội xứ và 6 ảnh cũ (tích lũy từ nhỏ đến  lớn) sẽ xúc chạm với  sáu ngoại xứ  nhưng  không bắt buộc  nên sự xúc chạm có thể  giảm thiểu sẽ bớt khổ..  
+
 Ví dụ. Một người sống vùng quê hay trong rừng có  những ngoại xứ rất đơn sơ. Nhưng đi lên thành phố lớn đồng nghĩa là  tiếp xúc 6 ngoại xứ mới sẽ sinh ra những cảm thọ vui sướng  nên tham ái sanh khởi
 
 
@@ -429,7 +601,20 @@ Do duyên tai và do duyên các tiếng, khởi lên nhĩ thức. Sự gặp g�
 
 ![Âm thanh từ tai đưa vào não](/images/save_sound_to_brain.jpeg "Âm thanh từ tai đưa vào no")
 
-Do duyên tai và do duyên các thanh : Thanh được đưa vào tâm qua tai lần thứ nhất gọi ảnh thanh 1, tương tự duyên với thanh lần thứ hai gọi là ảnh 2. Tâm so sánh ảnh thanh 1 và ảnh thanh 2 sanh khởi nhĩ  thức nhưng ảnh 2 trở thành ảnh cũ  Khi duyên với thanh lần thứ ba  gọi là ảnh mới . Ảnh thanh  mới này được đưa vào tâm qua tai  với tốc độ âm thanh , nó sẽ xúc chạm với  ảnh cũ khởi lên nhĩ xúc. Người học  Phật nên biết có  khoảng cách giữa tai và thanhkhi  ảnh thanh được đưa đến tai  bằng tốc độ âm thanh 343m/s, cho nên tai vừa nghe âm thanh , ảnh thanh mới  xúc chạm với ảnh cũ khá nhanh. Nếu không nhận biết điều này tưởng nhĩ xúc thế này thế nọ không đúng vì vậy  điều kiện   để  nhĩ  xúc  sanh khởi cần có 2 vế : về thứ nhất là ảnh cũ và vế thứ 2 là ảnh mới xúc chạm với nhau như vậy gọi là nhĩ  xúc. Minh hoạ nhĩ  xúc giống như hai bàn tay xúc chạm vào nhau.
+Do duyên tai và do duyên các thanh:  
+
+(1) Thanh được đưa vào tâm qua tai lần thứ nhất gọi ảnh thanh 1,  
+(2) tương tự duyên với thanh lần thứ hai gọi là ảnh 2.  
+(3) Tâm so sánh ảnh thanh 1 và ảnh thanh 2 sanh khởi nhĩ  thức nhưng ảnh 2 trở thành ảnh cũ  Khi duyên với thanh lần thứ ba  gọi là ảnh mới.  
+(4) Ảnh thanh  mới này được đưa vào tâm qua tai  với tốc độ âm thanh , nó sẽ xúc chạm với  ảnh cũ khởi lên nhĩ xúc.  
+
+Người học  Phật nên biết có  khoảng cách giữa tai và thanhkhi  ảnh thanh được đưa đến tai  bằng tốc độ âm thanh 343m/s, cho nên tai vừa nghe âm thanh , ảnh thanh mới  xúc chạm với ảnh cũ khá nhanh.  
+
+Nếu không nhận biết điều này tưởng nhĩ xúc thế này thế nọ không đúng vì vậy  điều kiện   để  nhĩ  xúc  sanh khởi cần có 2 vế:  
+- về thứ nhất là ảnh cũ 
+- và vế thứ 2 là ảnh mới xúc chạm với nhau như vậy gọi là nhĩ  xúc.  
+
+Minh hoạ nhĩ  xúc giống như hai bàn tay xúc chạm vào nhau.
 
 ### 5.3 Tỷ xúc.
 
@@ -441,7 +626,21 @@ Do duyên mũi và do duyên các hương, khởi lên tỷ thức. Sự gặp g
 
 ![Mùi từ mũi đưa vào não](/images/save_smell_to_brain.jpeg "Mùi từ mũi đưa vào não")
 
-Do duyên mũi và do duyên các hương : hương được đưa vào tâm qua mũi lần thứ nhất gọi ảnh hương 1, tương tự duyên với hương lần thứ hai gọi là ảnh 2. Tâm so sánh ảnh hương 1 và ảnh hương 2 sanh khởi tỷ  thức nhưng ảnh 2 trở thành ảnh cũ  Khi duyên với hương  lần thứ ba  gọi là ảnh mới . Ảnh hương mới này được đưa vào tâm qua  mũi  với tốc độ gió , nó sẽ xúc chạm với  ảnh cũ khởi lên tỷ xúc. Người học  Phật nên biết có  khoảng cách giữa mũi và hương khi  ảnh hương  được đưa đến mũi  bằng tốc độ gió, cho nên mũi  vừa ngửi hương , ảnh hương mới  xúc chạm với ảnh cũ tương đối chậm. Nếu không nhận biết điều này tưởng tỷ  xúc thế này thế nọ không đúng vì vậy  điều kiện   để  tỷ  xúc  sanh khởi cần có 2 vế : về thứ nhất là ảnh cũ và vế thứ 2 là ảnh mới xúc chạm với nhau như vậy gọi là tỷ  xúc. Minh hoạ tỷ  xúc giống như hai bàn tay xúc chạm vào nhau.
+Do duyên mũi và do duyên các hương:  
+
+(1) hương được đưa vào tâm qua mũi lần thứ nhất gọi ảnh hương 1,  
+(2) tương tự duyên với hương lần thứ hai gọi là ảnh 2.  
+(3) Tâm so sánh ảnh hương 1 và ảnh hương 2 sanh khởi tỷ  thức nhưng ảnh 2 trở thành ảnh cũ  Khi duyên với hương  lần thứ ba  gọi là ảnh mới.  
+(4) Ảnh hương mới này được đưa vào tâm qua  mũi  với tốc độ gió , nó sẽ xúc chạm với  ảnh cũ khởi lên tỷ xúc.  
+
+Người học  Phật nên biết có  khoảng cách giữa mũi và hương khi  ảnh hương  được đưa đến mũi  bằng tốc độ gió, cho nên mũi  vừa ngửi hương , ảnh hương mới  xúc chạm với ảnh cũ tương đối chậm.  
+
+Nếu không nhận biết điều này tưởng tỷ  xúc thế này thế nọ không đúng vì vậy  điều kiện   để  tỷ  xúc  sanh khởi cần có 2 vế :  
+- về thứ nhất là ảnh cũ  
+- và vế thứ 2 là ảnh mới xúc chạm với nhau như vậy gọi là tỷ  xúc.
+ 
+ 
+Minh hoạ tỷ  xúc giống như hai bàn tay xúc chạm vào nhau.
  
  ### 5.4 : Thiệt xúc.
  
@@ -501,7 +700,7 @@ Do duyên ý  và do duyên các pháp:
 (3)  Tâm so sánh ảnh pháp 1 và ảnh pháp 2 sanh khởi ý  thức nhưng ảnh 2 trở thành ảnh pháp  cũ  Khi duyên với pháp lần thứ ba  gọi là ảnh pháp  mới.  
 (4) Ảnh pháp  mới này được đưa vào tâm qua ý tức thì , nó sẽ xúc chạm với  ảnh cũ khởi lên ý xúc.  
 
-Người học  Phật nên biết không có  khoảng cách giữa ý và pháp khi  ảnh pháp được đưa đến ý tức thì không có thời gian  , cho nên ý vừa xúc với pháp  , ảnh pháp  mới  xúc chạm với ảnh cũ tức thì . Nếu không nhận biết điều này tưởng ý  xúc thế này thế nọ không đúng vì vậy  điều kiện   để  ý  xúc  sanh khởi cần có 2 vế : về thứ nhất là ảnh cũ và vế thứ 2 là ảnh mới xúc chạm với nhau như vậy gọi là ý  xúc. Minh hoạ ý xúc giống như hai bàn tay xúc chạm vào nhau.
+Người học  Phật nên biết không có  khoảng cách giữa ý và pháp khi  ảnh pháp được đưa đến ý tức thì không có thời gian, cho nên ý vừa xúc với pháp  , ảnh pháp  mới  xúc chạm với ảnh cũ tức thì . Nếu không nhận biết điều này tưởng ý  xúc thế này thế nọ không đúng vì vậy  điều kiện   để  ý  xúc  sanh khởi cần có 2 vế : về thứ nhất là ảnh cũ và vế thứ 2 là ảnh mới xúc chạm với nhau như vậy gọi là ý  xúc. Minh hoạ ý xúc giống như hai bàn tay xúc chạm vào nhau.
 
 ## 6. Thọ do duyên Xúc sanh.
 
@@ -509,11 +708,36 @@ Người học  Phật nên biết không có  khoảng cách giữa ý và phá
 
 ```
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
-2. - Này các Tỷ-kheo, nếu các du sĩ ngoại đạo hỏi như sau: "Này chư Hiền, tất cả pháp lấy gì làm căn bản? Tất cả pháp lấy gì làm sanh khởi? Tất cả pháp lấy gì làm tập khởi? Tất cả pháp lấy gì làm chỗ quy tụ? Tất cả pháp lấy gì làm thượng thủ? Tất cả pháp lấy gì làm tăng thượng? Tất cả pháp lấy gì làm tối thượng? Tất cả pháp lấy gì làm lõi cây? Tất cả pháp lấy gì làm chỗ thể nhập? Tất cả pháp lấy gì làm cứu cánh? "
-Ðược hỏi vậy, này các Tỷ-kheo, các Thầy có thể trả lời như sau: "Tất cả pháp lấy dục làm căn bản. Tất cả pháp lấy tác ý làm sanh khởi. Tất cả pháp lấy xúc làm tập khởi. Tất cả pháp lấy thọ làm chỗ quy tụ. Tất cả pháp lấy định làm thượng thủ. Tất cả pháp lấy niệm làm tăng thượng. Tất cả pháp lấy tuệ làm tối thượng. Tất cả pháp lấy giải thoát làm lõi cây. Tất cả pháp lấy bất tử làm chỗ thể nhập. Tất cả pháp lấy Niết-bản làm cứu cánh."
+2. - Này các Tỷ-kheo, nếu các du sĩ ngoại đạo hỏi như sau:  
+ 
+ "Này chư Hiền, tất cả pháp lấy gì làm căn bản?  
+ Tất cả pháp lấy gì làm sanh khởi?  
+ Tất cả pháp lấy gì làm tập khởi?  
+ Tất cả pháp lấy gì làm chỗ quy tụ?  
+ Tất cả pháp lấy gì làm thượng thủ?  
+ Tất cả pháp lấy gì làm tăng thượng?  
+ Tất cả pháp lấy gì làm tối thượng?  
+ Tất cả pháp lấy gì làm lõi cây?  
+ Tất cả pháp lấy gì làm chỗ thể nhập?  
+ Tất cả pháp lấy gì làm cứu cánh? "  
+ 
+ 
+Ðược hỏi vậy, này các Tỷ-kheo, các Thầy có thể trả lời như sau:  
+
+"Tất cả pháp lấy dục làm căn bản.  
+Tất cả pháp lấy tác ý làm sanh khởi.  
+Tất cả pháp lấy xúc làm tập khởi.  
+Tất cả pháp lấy thọ làm chỗ quy tụ.  
+Tất cả pháp lấy định làm thượng thủ.  
+Tất cả pháp lấy niệm làm tăng thượng.  
+Tất cả pháp lấy tuệ làm tối thượng.  
+Tất cả pháp lấy giải thoát làm lõi cây.  
+Tất cả pháp lấy bất tử làm chỗ thể nhập.  
+Tất cả pháp lấy Niết-bản làm cứu cánh."
 ```
 
 Đoạn kinh trên trích từ kinh tăng chi 10 pháp cho biết rằng tất cả các pháp lấy thọ làm chỗ quy tu.  
+
 Như vậy duyên thọ là quả khổ/lạc thuộc một trong bốn quả hiện tại rất quan trọng. Nó là chỗ hội tụ mà chúng sanh nào cũng ghi nhận và biết được những cảm thọ lạc hay nững cảm thọ khổ. Nó cũng là cạm bẫy để chúng sanh bị sập vào để phải luân hồi .Những người học Phật cần chánh niệm duyên thọ để không sụp vào cái bẫy này vì đa số những hành giả Phật giáo ít nhận ra duyên thọ là cái bẫy sập.
 
 
@@ -539,7 +763,15 @@ Những ai học Phật cần tìm hiểu rốt  ráo về duyên thọ để kh
 1) ...
 2) -- Này các Tỷ-kheo, Ta sẽ giảng cho các Ông pháp môn về pháp theo 108 pháp môn. Hãy lắng nghe.
 
-3) Và này các Tỷ-kheo, thế nào là pháp môn về pháp theo 108 pháp môn? Có hai thọ, theo pháp môn thuyết giảng của Ta. Có ba thọ, theo pháp môn thuyết giảng của Ta. Có năm thọ, theo pháp môn thuyết giảng của Ta. Có sáu thọ, theo pháp môn thuyết giảng của Ta. Có 18 thọ, theo pháp môn thuyết giảng của Ta. Có 36 thọ, theo pháp môn thuyết giảng của Ta. Có 108 thọ, theo pháp môn thuyết giảng của Ta.
+3) Và này các Tỷ-kheo, thế nào là pháp môn về pháp theo 108 pháp môn?  
+
+Có hai thọ, theo pháp môn thuyết giảng của Ta.  
+Có ba thọ, theo pháp môn thuyết giảng của Ta.  
+Có năm thọ, theo pháp môn thuyết giảng của Ta.  
+Có sáu thọ, theo pháp môn thuyết giảng của Ta.  
+Có 18 thọ, theo pháp môn thuyết giảng của Ta.  
+Có 36 thọ, theo pháp môn thuyết giảng của Ta.  
+Có 108 thọ, theo pháp môn thuyết giảng của Ta.  
 
 4) Và này các Tỷ-kheo, thế nào là hai thọ? Thọ về thân và thọ về tâm. Này các Tỷ-kheo, đây gọi là hai thọ.
 
@@ -570,7 +802,7 @@ Nếu duyên lục nhập mà nhập những kinh sách thuộc tà kiến thì 
 Này các Tỳ-kheo, có ba thọ này. Thế nào là ba? Lạc thọ, khổ thọ, bất khổ bất lạc thọ. Ðây, này các Tỳ-kheo, là ba thọ.
 ```
 
-##### Lạc thọ
+##### **_Lạc thọ_**
 Nhãn xúc sanh ra lạc thọ có nghĩa là gì ?  
 Nhãn xúc là sự xúc chạm giữa ảnh cũ cảnh sắc và ảnh mới cảnh sắc vừa đưa vào tâm qua mắt.Lạc thọ do sự chênh lệch giữa ảnh cũ và ảnh mới tức là ảnh mới -ảnh cũ ˃ 0 . Ảnh mới lạ khác nhiều ảnh cũ nên sanh ra cảm thọ lạc .Có sự khác nhau giữa ảnh cũ và ảnh mới sanh ra khả ái, khả lạc gọi là thọ lạc. Thọ lạc là bẫy sập đưa  chúng sanh luân hồi dài lâu.  
 
@@ -578,7 +810,7 @@ Nhãn xúc là sự xúc chạm giữa ảnh cũ cảnh sắc và ảnh mới c�
 Một người đã có một chiếc xe cũ rồi muốn mua một chiếc xe mới ,khi thấy một chiếc xe khả ái khả lạc rồi mua về  
 
 
-##### Khổ thọ
+##### **_Khổ thọ_**
 Nhãn xúc sanh ra khổ thọ có nghĩa là gì ?  
 Nhãn xúc là sự xúc chạm giữa ảnh cũ cảnh sắc và ảnh mới cảnh sắc vừa đưa vào tâm qua mắt. Khổ thọ do sự chênh lệch giữa ảnh cũ và ảnh mới , ảnh mới -ảnh cũ ˂ 0 . Ảnh mới thường là thua sút ảnh cũ như hình ảnh già nua hoặc ảnh mới thay đổi đột ngột mất sanh ra cảm thọ khổ.Thọ khổ là bẫy sập đưa chúng sanh luân hồi dài lâu.   
 
@@ -586,11 +818,20 @@ Nhãn xúc là sự xúc chạm giữa ảnh cũ cảnh sắc và ảnh mới c�
 
 Một người có vợ hay có chồng khi một trong hai người mất thì sự chênh lệch giữa ảnh cũ và ảnh mới rất lớn tức là < 0  phát sanh ra một cảm thọ khổ vô cùng.  
 
-##### Không khổ không lạc thọ
+##### **_Không khổ không lạc thọ_**
 
 Nhãn xúc sanh ra cảm thọ không khổ không lạc có nghĩa là gì ?  
 
-Nhãn xúc là sự xúc chạm giữa ảnh cũ cảnh sắc và ảnh mới cảnh sắc vừa đưa vào tâm qua mắt. Cảm thọ không khổ không lạc do sự chênh lệch giữa ảnh cũ và ảnh mới, ảnh mới - ảnh cũ = 0 .Không có sự khác nhau giữa ảnh mới và ảnh cũ nên sanh ra cảm thọ không khổ không lạc. Nhãn thọ sanh khởi tức thì khi có duyên nhãn xúc sanh khởi .Nếu duyên xúc  sanh khởi  cảm thọ lạc  trước , khi duyên xúc thay đổi thì  cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt.Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt . Nếu  duyên xúc sanh ra là cảm thọ khổ vì duyên xúc  biến đổi thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt.Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt. Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc hoặc cảm thọ khổ hoặc cảm thọ không khổ không lạc chứ không phải  cùng một lúc có cả ba cảm thọ. Hành giả  cần phải quan sát và trải nghiệm  hằng ngày, mỗi một thời điểm chỉ có một cảm thọ thôi. Cảm thọ không khổ không lạc là cảm thọ trung gian giữa cảm thọ lạc và cảm thọ khổ nên những hành giả  Phật giả không nhận ra tưởng mình có tâm xả .Cảm thọ này cũng là bẫy sập dẫn đế luân hồi dài lâu.  
+Nhãn xúc là sự xúc chạm giữa ảnh cũ cảnh sắc và ảnh mới cảnh sắc vừa đưa vào tâm qua mắt. Cảm thọ không khổ không lạc do sự chênh lệch giữa ảnh cũ và ảnh mới, ảnh mới - ảnh cũ = 0.  
+
+Không có sự khác nhau giữa ảnh mới và ảnh cũ nên sanh ra cảm thọ không khổ không lạc. Nhãn thọ sanh khởi tức thì khi có duyên nhãn xúc sanh khởi .Nếu duyên xúc  sanh khởi  cảm thọ lạc  trước , khi duyên xúc thay đổi thì  cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt.Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt.  
+
+Nếu  duyên xúc sanh ra là cảm thọ khổ vì duyên xúc  biến đổi thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt.Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt.  
+
+**Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc hoặc cảm thọ khổ hoặc cảm thọ không khổ không lạc chứ không phải  cùng một lúc có cả ba cảm thọ.**
+
+
+Hành giả  cần phải quan sát và trải nghiệm  hằng ngày, mỗi một thời điểm chỉ có một cảm thọ thôi. Cảm thọ không khổ không lạc là cảm thọ trung gian giữa cảm thọ lạc và cảm thọ khổ nên những hành giả  Phật giả không nhận ra tưởng mình có tâm xả .Cảm thọ này cũng là bẫy sập dẫn đế luân hồi dài lâu.  
 
 **_Ví dụ_**  
 
@@ -602,19 +843,32 @@ Một người đi du lịch một nơi nào đó xúc cảnh mới lạ nên sa
 #### (2) Nhĩ thọ do nhĩ xúc sanh.  
 Tương tự như nhãn thọ ở trên, cũng theo tiến trình có ba cảm thọ : cảm thọ lạc, cảm thọ khổ, cảm thọ không khổ không lạc.  
 
-Nhĩ thọ sanh khởi tức thì khi có duyên nhĩ xúc sanh khởi .Tại một thời điểm nhĩ thọ nếu là cảm thọ lạc , do sự biến đổi duyên xúc, từ cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt.Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt . Nếu  duyên xúc sanh ra là cảm thọ khổ vì sự biến đổi duyên xúc thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt.Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt. Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc hoặc cảm thọ khổ hoặc cảm thọ không khổ không lạc chứ không phải  cùng một lúc có cả ba cảm thọ. Hành giả  cần phải quan sát và trải nghiệm  hằng ngày, mỗi một thời điểm chỉ có một cảm thọ thôi. Nhĩ thọ là bẫy sập đưa chúng sanh vào luân hồi dài dài.  
+Nhĩ thọ sanh khởi tức thì khi có duyên nhĩ xúc sanh khởi .Tại một thời điểm nhĩ thọ nếu là cảm thọ lạc , do sự biến đổi duyên xúc, từ cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt.Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt.   
+
+Nếu  duyên xúc sanh ra là cảm thọ khổ vì sự biến đổi duyên xúc thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt.Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt.  
+
+Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc hoặc cảm thọ khổ hoặc cảm thọ không khổ không lạc chứ không phải  cùng một lúc có cả ba cảm thọ.  
+
+Hành giả cần phải quan sát và trải nghiệm  hằng ngày, mỗi một thời điểm chỉ có một cảm thọ thôi. Nhĩ thọ là bẫy sập đưa chúng sanh vào luân hồi dài dài.  
 
 #### (3) Tỷ thọ do tỷ xúc sanh.  
 
 Tương tự như nhãn thọ ở trên, cũng theo tiến trình ba cảm thọ : thọ lạc, thọ khổ, thọ không khổ không lạc.   
 
-Tỷ thọ sanh khởi tức thì khi có duyên tỷ xúc sanh khởi. Tại một thời điểm tỷ thọ nếu là cảm thọ lạc, do sự biến đổi duyên xúc, từ cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt. Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt. Nếu  duyên xúc sanh ra là cảm thọ khổ vì sự biến đổi duyên xúc thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt. Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt. Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc hoặc cảm thọ khổ hoặc cảm thọ không khổ không lạc chứ không phải  cùng một lúc có cả ba cảm thọ. Hành giả  cần phải quan sát và trải nghiệm  hằng ngày, mỗi một thời điểm chỉ có một cảm thọ thôi. Tỷ thọ là bẫy sập đưa chúng sinh vào luân hồi dài lâu.  
+Tỷ thọ sanh khởi tức thì khi có duyên tỷ xúc sanh khởi. Tại một thời điểm tỷ thọ nếu là cảm thọ lạc, do sự biến đổi duyên xúc, từ cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt. Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt.   
+
+Nếu  duyên xúc sanh ra là cảm thọ khổ vì sự biến đổi duyên xúc thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt. Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt.   
+Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc hoặc cảm thọ khổ hoặc cảm thọ không khổ không lạc chứ không phải  cùng một lúc có cả ba cảm thọ.  
+
+Hành giả  cần phải quan sát và trải nghiệm  hằng ngày, mỗi một thời điểm chỉ có một cảm thọ thôi. Tỷ thọ là bẫy sập đưa chúng sinh vào luân hồi dài lâu.  
 
 #### (4) Thiệt thọ do thiệt xúc sanh.  
 
 Tương tự như nhãn thọ ở trên , cũng theo tiến trình ba cảm thọ : thọ lạc, thọ khổ, thọ không khổ không lạc.  
 
-Thiệt thọ sanh khởi tức thì khi có duyên thiệt xúc sanh khởi .Tại một thời điểm thiệt thọ nếu là cảm thọ lạc , do sự biến đổi duyên xúc ,từ cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt.Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt . Nếu  duyên xúc sanh ra là cảm thọ khổ vì sự biến đổi duyên xúc thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt.Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt.Thiệt thọ là bẫy sập đưa chúng sanh luân hồi dài lâu.  
+Thiệt thọ sanh khởi tức thì khi có duyên thiệt xúc sanh khởi .Tại một thời điểm thiệt thọ nếu là cảm thọ lạc , do sự biến đổi duyên xúc ,từ cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt.Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt.  
+
+Nếu  duyên xúc sanh ra là cảm thọ khổ vì sự biến đổi duyên xúc thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt.Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt.Thiệt thọ là bẫy sập đưa chúng sanh luân hồi dài lâu.  
 
 Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc hoặc cảm thọ khổ hoặc cảm thọ không khổ không lạc chứ không phải  cùng một lúc có cả ba cảm thọ. Người tu cần phải quan sát và trải nghiệm  hằng ngày,mỗi một thời điểm chỉ có một cảm thọ thôi.
  
@@ -622,7 +876,14 @@ Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc ho�
  
 Tương tự như nhãn thọ ở trên , cũng theo tiến trình ba cảm thọ : thọ lạc ,thọ khổ ,thọ không khổ không lạc   
 
-Thân thọ sanh khởi tức thì khi có duyên thân xúc sanh khởi . Tại một thời điểm thân thọ nếu là cảm thọ lạc , do sự biến đổi duyên xúc ,từ cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt. Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt . Nếu  duyên xúc sanh ra là cảm thọ khổ vì sự biến đổi duyên xúc thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt. Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt. Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc hoặc cảm thọ khổ hoặc cảm thọ không khổ không lạc chứ không phải  cùng một lúc có cả ba cảm thọ. Hành giả  cần phải quan sát và trải nghiệm  hằng ngày,mỗi một thời điểm chỉ có một cảm thọ thôi.Thân thọ là bẫy sập đưa chúng sanh luân hồi dài lâu.   
+Thân thọ sanh khởi tức thì khi có duyên thân xúc sanh khởi . Tại một thời điểm thân thọ nếu là cảm thọ lạc , do sự biến đổi duyên xúc ,từ cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt. Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt.   
+
+Nếu  duyên xúc sanh ra là cảm thọ khổ vì sự biến đổi duyên xúc thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt. Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt.   
+
+Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc hoặc cảm thọ khổ hoặc cảm thọ không khổ không lạc chứ không phải  cùng một lúc có cả ba cảm thọ.  
+
+Hành giả  cần phải quan sát và trải nghiệm  hằng ngày,mỗi một thời điểm chỉ có một cảm thọ thôi.Thân thọ là bẫy sập đưa chúng sanh luân hồi dài lâu.   
+
  
  #### (6) Ý thọ do ý xúc sanh.
  
@@ -656,7 +917,13 @@ ngày xưa có người yêu đã lưu trữ ảnh cũ cảnh pháp , sau một 
 
 Ví dụ bỏ quê đi xa rồi một thời gian rồi về quê cảnh vật thay đổi đưa qua ý , ảnh cảnh pháp mới , phát sanh cảm thọ vui , rồi hằng ngày đưa cảnh pháp qua ý , không còn có sự khác nhau giữa ảnh cũ cảnh pháp và ảnh mới cảnh pháp phát ra cảm thọ không vui không buồn.  
 
-Ý thọ sanh khởi tức thì khi có duyên ý xúc sanh khởi . Tại một thời điểm ý thọ nếu là cảm thọ lạc , do sự biến đổi duyên xúc ,từ cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt. Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt . Nếu  duyên xúc sanh ra là cảm thọ khổ vì sự biến đổi duyên xúc thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt.Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt. Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc hoặc cảm thọ khổ hoặc cảm thọ không khổ không lạc chứ không phải  cùng một lúc có cả ba cảm thọ. Hành giả  cần phải quan sát và trải nghiệm  hằng ngày, mỗi một thời điểm chỉ có một cảm thọ thôi.Ý thọ là bẫy sập dẫn chúng sanh luân hồi dài lâu.  
+Ý thọ sanh khởi tức thì khi có duyên ý xúc sanh khởi . Tại một thời điểm ý thọ nếu là cảm thọ lạc , do sự biến đổi duyên xúc ,từ cảm thọ lạc sẽ chuyển sang cảm thọ không khổ không lạc thì cảm thọ lạc diệt. Từ cảm thọ không khổ không lạc chuyển đổi qua cảm thọ khổ thì thọ không khổ không lạc diệt.  
+
+Nếu  duyên xúc sanh ra là cảm thọ khổ vì sự biến đổi duyên xúc thì cảm thọ khổ chuyển đổi qua cảm thọ không khổ không lạc thì cảm thọ khổ diệt.Từ cảm thọ không khổ không lạc biến đổi qua cảm thọ lạc thì cảm thọ không khổ không lạc diệt. 
+
+Như vậy khi có duyên xúc sanh khởi thì chỉ có cảm thọ lạc hoặc cảm thọ khổ hoặc cảm thọ không khổ không lạc chứ không phải  cùng một lúc có cả ba cảm thọ.  
+
+Hành giả  cần phải quan sát và trải nghiệm  hằng ngày, mỗi một thời điểm chỉ có một cảm thọ thôi.Ý thọ là bẫy sập dẫn chúng sanh luân hồi dài lâu.  
  
 ### 6.4 Kết luận 
 
@@ -668,11 +935,19 @@ Thọ là quả hiện tại, dựa vào lý duyên khởi như sau :
 
 Như vậy 4 duyên quả hiện tại là Danh sắc,Lục nhập,Xúc ,Thọ.  
 
-Danh sắc là bắt đầu có mặt trong cuộc sống , chỉ tâm và vật rất vi tế mắt thường không thấy .Từ sự vi tế của Danh sắc từ từ biến đổi vi tế thành to lớn và lọt ra một đứa bé có 6 giác quan có trọng lượng khoảng từ 3 ký đến 4 ký ,gọi là sáu nội xứ mắt, tai, mũi, lưỡi, thân, ý. Từ sáu nội xứ này,đứa bé tự động thâu vào sáu ảnh của ngoại xứ   (sắc,thanh,hương,vị,xúc,pháp) qua sáu nội xứ và lưu giữ trong tâm  rồi duyên lại với sáu ngoại xứ sanh ra 6 thức hay 6 cái biết. Từ sáu thức này hay 6 ảnh cũ đã lưu giữ trong tâm xúc chạm với 6 ảnh mới của sáu ngoại xứ vừa đưa vào tâm qua cửa sổ  sanh khởi sáu xúc. Từ duyên xúc sanh khởi sáu thọ tức thì. Tiến trình từ danh sắc đến thọ là tự động. Danh sắc là bào thai rất vi tế  chưa có hiểu biết nhiều, không có gì phải quan sát .  
+Danh sắc là bắt đầu có mặt trong cuộc sống , chỉ tâm và vật rất vi tế mắt thường không thấy .Từ sự vi tế của Danh sắc từ từ biến đổi vi tế thành to lớn và lọt ra một đứa bé có 6 giác quan có trọng lượng khoảng từ 3 ký đến 4 ký ,gọi là sáu nội xứ mắt, tai, mũi, lưỡi, thân, ý.  
 
-Từ khi có sáu nội xứ (lục nhập) bắt đầu thâu vào các ảnh của sáu ngoại xứ rất quan trọng. Vì các ảnh đó được lưu giữ trong tâm .Chúng(các ảnh)là những dữ liệu cho chúng ta tạo nghiệp mới trong kiếp sống này. Như vậy mắt nhập ảnh cảnh sắc và lưu giữ trong tâm qua cửa sổ mắt .Thông tin cảnh sắc có trong tâm rồi sẽ sanh ra khổ lạc về sau . Do đó thông tin cảnh sắc rất nguy hiểm , không nên thâu vào thông tin cảnh sắc nhiều , chỉ cho vào thông tin cảnh sắc để duy trì sự sống chúng ta và để chấm dứt khổ hay chấm dứt sự luân hồi. Thông thường thông tin về cảnh sắc là  những Kinh do các nhà hiền triết viết để lại hay kinh truyền tụng rồi về sau viết xuống thành kinh nên cẩn thận nếu không thì tâm chúng ta chỉ lưu giữ kinh toàn là văn tự không kiểm chứng được rất nguy hiểm.Còn sách do người thế gian viết và lưu truyền lại không nên đọc vì chúng không đưa đến chấm dứt khổ.  
+Từ sáu nội xứ này,đứa bé tự động thâu vào sáu ảnh của ngoại xứ   (sắc,thanh,hương,vị,xúc,pháp) qua sáu nội xứ và lưu giữ trong tâm  rồi duyên lại với sáu ngoại xứ sanh ra 6 thức hay 6 cái biết. Từ sáu thức này hay 6 ảnh cũ đã lưu giữ trong tâm xúc chạm với 6 ảnh mới của sáu ngoại xứ vừa đưa vào tâm qua cửa sổ  sanh khởi sáu xúc. Từ duyên xúc sanh khởi sáu thọ tức thì. Tiến trình từ danh sắc đến thọ là tự động. Danh sắc là bào thai rất vi tế  chưa có hiểu biết nhiều, không có gì phải quan sát .  
 
-Thông tin về 5 bộ kinh Nikaya có thể thâu vào tâm qua cửa sổ mắt .Nhưng ảnh văn tự kinh  lưu giữ  trong  tâm chỉ là  văn tự thôi chưa phải là sự thật. Đa số chúng ta đọc và suy diễn văn tự không chứng nghiệm gì cả thì rất nguy hiểm. Học kinh nên học ít và học từ từ và cần chứng nghiệm những gì trong kinh diễn đạt chứ không phải ngồi lý luận theo tưởng tri của mình. Tai nhập ảnh cảnh thanh và lưu giữ trong tâm qua cửa sổ tai. Thông tin cảnh thanh cũng sẽ sanh ra phiền não về sau.Thông tin này rất nguy hiểm.Thời Đức Phật thông tin về  cảnh thanh từ Đức Phật , các thầy tu nhớ và chứng nghiệm dễ dàng. Ngày này thông tin về cảnh thanh do phàm phu nói không đúng chân lý  nếu chúng ta nhập vào mà không tiêu hoá sẽ có phiền não nhiều nên tránh nhập thông tin từ phàm phu. Về học hỏi Phật pháp cần đưa vào tâm qua cửa sổ mắt hay cửa số tai là quan trọng nhất còn những số khác như lưỡi,thân,mũi chủ về dục là chính.Nếu mắt hay tai nhập những thông tin về Tứ Thánh Đế , 12 Nhân Duyên ,Bát Thánh Đạo đưa vào tâm  và không nhập những thông tin khác . Đó là phước của qúy vị trong quá khứ có chánh kiến. Nếu mắt hay tai nhập những thông tin khác với Tứ Thánh Đế ,12 Nhân Duyên,Bát Thánh Đạo. Đó là qúy vị thiếu phước vì kiếp quá khứ đã có tà kiến.  
+Từ khi có sáu nội xứ (lục nhập) bắt đầu thâu vào các ảnh của sáu ngoại xứ rất quan trọng. Vì các ảnh đó được lưu giữ trong tâm .Chúng(các ảnh)là những dữ liệu cho chúng ta tạo nghiệp mới trong kiếp sống này. Như vậy mắt nhập ảnh cảnh sắc và lưu giữ trong tâm qua cửa sổ mắt .Thông tin cảnh sắc có trong tâm rồi sẽ sanh ra khổ lạc về sau.  
+
+Do đó thông tin cảnh sắc rất nguy hiểm , không nên thâu vào thông tin cảnh sắc nhiều , chỉ cho vào thông tin cảnh sắc để duy trì sự sống chúng ta và để chấm dứt khổ hay chấm dứt sự luân hồi. Thông thường thông tin về cảnh sắc là  những Kinh do các nhà hiền triết viết để lại hay kinh truyền tụng rồi về sau viết xuống thành kinh nên cẩn thận nếu không thì tâm chúng ta chỉ lưu giữ kinh toàn là văn tự không kiểm chứng được rất nguy hiểm.Còn sách do người thế gian viết và lưu truyền lại không nên đọc vì chúng không đưa đến chấm dứt khổ.  
+
+Thông tin về 5 bộ kinh Nikaya có thể thâu vào tâm qua cửa sổ mắt .Nhưng ảnh văn tự kinh  lưu giữ  trong  tâm chỉ là  văn tự thôi chưa phải là sự thật. Đa số chúng ta đọc và suy diễn văn tự không chứng nghiệm gì cả thì rất nguy hiểm. Học kinh nên học ít và học từ từ và cần chứng nghiệm những gì trong kinh diễn đạt chứ không phải ngồi lý luận theo tưởng tri của mình.  
+
+Tai nhập ảnh cảnh thanh và lưu giữ trong tâm qua cửa sổ tai. Thông tin cảnh thanh cũng sẽ sanh ra phiền não về sau.Thông tin này rất nguy hiểm.Thời Đức Phật thông tin về  cảnh thanh từ Đức Phật , các thầy tu nhớ và chứng nghiệm dễ dàng. Ngày này thông tin về cảnh thanh do phàm phu nói không đúng chân lý  nếu chúng ta nhập vào mà không tiêu hoá sẽ có phiền não nhiều nên tránh nhập thông tin từ phàm phu.  
+
+Về học hỏi Phật pháp cần đưa vào tâm qua cửa sổ mắt hay cửa số tai là quan trọng nhất còn những số khác như lưỡi,thân,mũi chủ về dục là chính.Nếu mắt hay tai nhập những thông tin về Tứ Thánh Đế , 12 Nhân Duyên ,Bát Thánh Đạo đưa vào tâm  và không nhập những thông tin khác . Đó là phước của qúy vị trong quá khứ có chánh kiến. Nếu mắt hay tai nhập những thông tin khác với Tứ Thánh Đế ,12 Nhân Duyên,Bát Thánh Đạo. Đó là qúy vị thiếu phước vì kiếp quá khứ đã có tà kiến.  
 
 Nói chung chúng ta có sáu cửa sổ nhập những thông tin của sắc,của thanh,của hương.của vị,của xúc,của pháp  rất thận trọng . Sáu thọ cũng là sáu cái bẫy sập sẽ dẫn chúng ta luân hồi mãi mãi và đau khổ triền miên.
 
@@ -681,19 +956,29 @@ Sau đây có một bài kinh trong kinh tương ưng 1 nói về chư thiên, s
 
 ```
 I: Bộc Lưu (S.I,1)
-Như vầy tôi nghe.
-Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm), tại vườn ông Anàthapindika (Cấp Cô Ðộc).
+Như vầy tôi nghe.  
+Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm), tại vườn ông Anàthapindika (Cấp Cô Ðộc).  
 Rồi một vị Thiên, khi đêm đã gần tàn, với nhan sắc thù thắng chói sáng toàn vùng Jetavana, đi đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi đứng một bên. Ðứng một bên, vị Thiên ấy bạch Thế Tôn:
+
 -- Thưa Tôn giả, làm sao Ngài vượt khỏi bộc lưu?
+
 -- Này Hiền giả, không đứng lại, không bước tới, Ta vượt khỏi bộc lưu.
+
 -- Thưa Tôn giả, làm sao không đứng lại, không bước tới, Ngài vượt khỏi bộc lưu?
+
 -- Này Hiền giả, khi Ta đứng lại, thời Ta chìm xuống. Này Hiền giả, khi Ta bước tới, thời Ta trôi giạt; do vậy, này Hiền giả, không đứng lại, không bước tới, Ta vượt khỏi bộc lưu.
+
 (Vị Thiên):
 Từ lâu, tôi mới thấy
 Bà-la-môn tịch tịnh.
 Không đứng, không bước tới,
 Vượt chấp trước ở đời.
-Vị Thiên ấy nói như vậy và bậc Ðạo Sư chấp nhận. Vị Thiên ấy biết được: "Thế Tôn đã chấp nhận ta". Vị ấy đảnh lễ Thế Tôn, thân phía hữu hướng về Ngài, rồi biến mất tại chỗ.
+
+Vị Thiên ấy nói như vậy và bậc Ðạo Sư chấp nhận. Vị Thiên ấy biết được:
+
+"Thế Tôn đã chấp nhận ta". 
+
+Vị ấy đảnh lễ Thế Tôn, thân phía hữu hướng về Ngài, rồi biến mất tại chỗ.
 ```
 Xin giải thích như sau   
 Tho không khổ không lạc là  dừng lại là chìm thuộc về  tâm si.  
@@ -740,46 +1025,60 @@ Như vậy sắc tư,thanh tư,hương tư,vị tư,xúc tư,pháp tư là nghi�
 
 ### 7.3 Tưởng do duyên Xúc sanh.
 
-**(1)Sắc tưởng, (2)thanh tưởng, (3)hương tưởng, (4)vị tưởng, (5)xúc tưởng, (6)pháp tưởng.
+**(1) Sắc tưởng, (2) thanh tưởng, (3) hương tưởng, (4) vị tưởng, (5) xúc tưởng, (6) pháp tưởng.**
 
 ```
- Và này các Tỷ-kheo, thế nào là tưởng? Này các Tỳ-kheo, có sáu tưởng thân này: sắc tưởng, thanh tưởng, hương tưởng, vị tưởng, xúc tưởng, pháp tưởng. Này các Tỳ-kheo, đây gọi là tưởng. Do xúc tập khởi nên tưởng tập khởi. Do xúc đoạn diệt nên tưởng đoạn diệt. Ðây là con đường Thánh đạo Tám ngành đưa đến tưởng đoạn diệt, tức là chánh tri kiến, chánh tư duy... chánh định... thời không thể nêu rõ sự luân chuyển của họ.
+ Và này các Tỷ-kheo, thế nào là tưởng? Này các Tỳ-kheo, có sáu tưởng thân này:   
+ 
+ (1) sắc tưởng, (2)  thanh tưởng, (3)  hương tưởng, (4)  vị tưởng, (5)  xúc tưởng, (6)  pháp tưởng. 
+ 
+ Này các Tỳ-kheo, đây gọi là tưởng.  
+ 
+ Do xúc tập khởi nên tưởng tập khởi.  
+ 
+ Do xúc đoạn diệt nên tưởng đoạn diệt.  
+ 
+ Ðây là con đường Thánh đạo Tám ngành đưa đến tưởng đoạn diệt, tức là chánh tri kiến, chánh tư duy... chánh định... thời không thể nêu rõ sự luân chuyển của họ.
 ```
 
 Theo kinh tăng chi 6 pháp , định nghĩa tưởng dị thục như sau:  
 
 ```
-Và này các Tỷ-kheo, thế nào là các tưởng dị thục? Này các Tỷ-kheo, Ta tuyên bố rằng các tưởng là kết quả của thói quen, khi nào người ta biết sự vật như thế nào, như thế nào, người ta nói sự vật ấy như sau, như sau: "Như vậy tôi tưởng". Này các Tỳ-kheo, đây gọi là các tưởng dị thục.
-Này các Tỳ-kheo, có sáu tưởng này: Sắc tưởng, thanh tưởng, hương tưởng, vị tưởng, xúc tưởng, pháp tưởng.
+Và này các Tỷ-kheo, thế nào là các tưởng dị thục? Này các Tỷ-kheo, Ta tuyên bố rằng các tưởng là kết quả của thói quen, khi nào người ta biết sự vật như thế nào, như thế nào, người ta nói sự vật ấy như sau, như sau: "Như vậy tôi tưởng". Này các Tỳ-kheo, đây gọi là các tưởng dị thục.  
+
+
+Này các Tỳ-kheo, có sáu tưởng này: (1) Sắc tưởng, (2) thanh tưởng, (3) hương tưởng, (4) vị tưởng, (5) xúc tưởng, (6) pháp tưởng.
+
 Và này các Tỳ-kheo, thế nào là tưởng sanh khởi? Này các Tỳ-kheo, xúc là các tưởng sanh khởi.
 ```
 
-1. Sắc tưởng.do nhãn xúc sanh.  
+
+**1 - Sắc tưởng.do nhãn xúc sanh.**  
 Khi mắt thấy sắc , dùng sự hiểu hiểu biết  mình nghĩ tưởng sắc theo kinh nghiệm của mình đã có trước đây.  
 Ví dụ.  
 Ngày hôm nay đi ra đường thấy một đám mây đen tưởng rằng sẽ có mưa .Do lần trước đã thấy một đám mây đen kéo đến sau đó có mưa.Lần này tưởng có thể sai vì lần này mây đen không mưa.  
 
-2. Thanh tưởng do nhĩ xúc sanh.  
+**2 - Thanh tưởng do nhĩ xúc sanh.**  
 Khi tai nghe thanh . dùng sự kinh nghiệm,dùng sự hiểu biết của minh tưởng âm thanh theo kinh nghiệm của mình.  
 Ví dụ  
 Nghe tiếng người bạn yếu ớt tưởng người bạn bệnh ho lao.Vì lần trước đã có kinh nghiệm như vậy nhưng lần này tưởng có thể dẫn đến sai.  
 
-3. Hương tưởng do tỷ xúc sanh.  
+**3 - Hương tưởng do tỷ xúc sanh.**  
 Khi mũi ngửi hương , sử dụng những kinh nghiệm hay những sự hiểu biết tưởng hương theo kinh nghiệm của mình.  
 Ví dụ   
 Đi ra đường  hôm nay mũi ngửi được mùi thơm tưởng mình hôm nay gặp may mắn vì lúc trước đó đã xảy ra như vậy.Nhưng hôm nay cái tưởng có thể sai , người thơm nhưng không có may mắn  
 
-4. Vị tưởng do thiệt xúc sanh.  
+**4 - Vị tưởng do thiệt xúc sanh.**  
 Khi lưỡi nếm vị sử dụng những kinh nghiệm của mình tưởng vị theo kinh nghiệm của mình.  
 Ví dụ  
 Khi ăn   canh chua   hôm nay vị không ngon  , tưởng rằng  canh chua do người mới nấu chứ không phải người cũ nấu vì lúc trước đã ăn ngon.Tưởng có thể sai có thể cùng một người nấu.  
 
-5. Xúc tưởng do thân xúc sanh.  
+**5 - Xúc tưởng do thân xúc sanh.**  
 Khi thân xúc với cảnh xúc ,sử dụng kinh nghiệm của mình tưởng cảnh xúc theo kinh nghiệm của mình.  
 Ví dụ.  
 Khi thân ( tay) xúc chạm với với tay người bạn nóng quá , tưởng bạn mình bệnh.Vì lúc trước đã có kinh nghiệm như vậy.Hôm nay tưởng bạn mình có bệnh có thể sai.  
 
-6.  Pháp tưởng do ý xúc sanh.  
+**6 -  Pháp tưởng do ý xúc sanh.**  
 Khi ý xúc với cảnh pháp, sử dụng kinh nghiệm của mình tưởng cảnh pháp theo kinh nghiệm của mình.  
 Ví dụ.  
 Đang ngồi một mình có hình ảnh bạn cũ vui vẻ với mình ngày  xưa xuất hiện trong tâm  , tưởng   bạn cũ đang có hạnh phúc.Vì lần trước đã có kinh nghiệm như vậy  
@@ -788,9 +1087,8 @@ Nhưng lần này pháp tưởng có thể sai.
  
  ### 7.4 Thọ sai biệt.
  
- ```
-
-. Và này các Tỷ-kheo, thế nào là các cảm thọ sanh khởi? Xúc, này các Tỷ-kheo, là các cảm thọ sanh khởi. Và này các Tỷ-kheo, thế nào là các cảm thọ sai biệt? Này các Tỷ-kheo, 
+```
+Và này các Tỷ-kheo, thế nào là các cảm thọ sanh khởi? Xúc, này các Tỷ-kheo, là các cảm thọ sanh khởi. Và này các Tỷ-kheo, thế nào là các cảm thọ sai biệt? Này các Tỷ-kheo, 
 có các lạc thọ liên hệ đến vật chất,
  có các lạc thọ không liên hệ đến vật chất; 
 có các khổ thọ liên hệ đến vật chất, 
@@ -800,28 +1098,31 @@ có các cảm thọ không khổ không lạc liên hệ đến vật chất,
 Này các Tỳ-kheo, đây gọi là các cảm thọ sai biệt.
  ```
  
-1. Các lạc thọ liên hệ đến vật chất,  
+**1 - Các lạc thọ liên hệ đến vật chất,**  
 Vật chất ám chỉ là sắc (hình dáng),thanh, hương, vị, xúc.  
 Không liên hệ đến vật chất có nghĩa là không phải là sắc , không phải thanh, không phải hương, không phải vị, không phải xúc.như hơi thở, màu vàng, màu đỏ,nước,lửa  v.v..  
 
-2. Có các lạc thọ không liên hệ đến vật chất  
+**2 - Có các lạc thọ không liên hệ đến vật chất**  
 Lạc thọ khởi lên do tập trung vào vàng, đỏ,xanh, trắng, nước, lửa, gió,đất,thức, hư không.  
 
-3. Có các khổ thọ liên hệ đến vật chất,  
+**3 - Có các khổ thọ liên hệ đến vật chất,**  
 Khổ thọ khởi lên duyên với sắc,thanh,hương,vị, xúc.  
  
-4. Có các khổ thọ không liên hệ đến vật chất  
+**4 - Có các khổ thọ không liên hệ đến vật chất**  
 do tập trung vào vàng, đỏ,xanh, trắng, nước, lửa, gió,đất,thức, hư không.  
  
-5.  có các cảm thọ không khổ không lạc liên hệ đến vật chất  
+**5 -  có các cảm thọ không khổ không lạc liên hệ đến vật chất**  
 khởi lên duyên với sắc,thanh,hương,vị, xúc.  
 
-6. có các cảm thọ không khổ không lạc không liên hệ đến vật chất.  
+**6 - có các cảm thọ không khổ không lạc không liên hệ đến vật chất.**  
 do tập trung vào vàng, đỏ,xanh, trắng, nước, lửa, gió,đất,thức, hư không.  
 
 ## Tóm tắt chương hai/ Bài học rút ra chính.
 
-Do nghiệp cũ tạo thành danh sắc của kiếp sống mới  như một chúng sanh còn vi tế và từ từ phát triển khoảng 7-9 thành sáu giác quan và lọt ra khỏi bụng mè thành một đứa bé sơ sinh.
-Từ khi sanh ra đến khi trưởng thành, đứa bé sẽ thâu  sắc,thanh,hương,vị,xúc,pháp để có sáu cái biết .Sự hiểu biết khá đầy đủ khi đã tốt nghiệp đại học gọi là người lớn, đi làm , lập gia đình, sanh con, tích tụ tài sản, cứ như vậy sẽ luân hồi vào đời sau sẽ có những quả xấu do khi sống thế gian vô minh đã tạo nhiều nghiệp ác..
-Tất cả những hạnh phúc hay đau khổ ngày hôm nay do nghiệp cũ tạo thành, nếu không nhận ra Lý duyên khởi mà Vô minh tiếp tục  tạo nghiệp mới nữa thì sẽ đau khổ nữa trong vị la
+Do nghiệp cũ tạo thành danh sắc của kiếp sống mới  như một chúng sanh còn vi tế và từ từ phát triển khoảng 7-9 thành sáu giác quan và lọt ra khỏi bụng mè thành một đứa bé sơ sinh.  
+
+Từ khi sanh ra đến khi trưởng thành, đứa bé sẽ thâu  sắc,thanh,hương,vị,xúc,pháp để có sáu cái biết .Sự hiểu biết khá đầy đủ khi đã tốt nghiệp đại học gọi là người lớn, đi làm , lập gia đình, sanh con, tích tụ tài sản, cứ như vậy sẽ luân hồi vào đời sau sẽ có những quả xấu do khi sống thế gian vô minh đã tạo nhiều nghiệp ác..  
+
+
+Tất cả những hạnh phúc hay đau khổ ngày hôm nay do nghiệp cũ tạo thành, nếu không nhận ra Lý duyên khởi mà Vô minh tiếp tục  tạo nghiệp mới nữa thì sẽ đau khổ nữa trong vị lai.
 
