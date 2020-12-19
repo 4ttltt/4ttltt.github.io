@@ -134,7 +134,7 @@ export default function DPA({ page, links }) {
           title: 'Sách Tứ Thánh Đế - Giọng Đọc - Hạnh Ngọc',
           type: mediaType.mixCloud,
           href:
-            'https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Fuy%C3%AAn-nguy%E1%BB%85n122%2Fplaylists%2F4thanhde-latoithuong-hanh-ngoc%2F',
+            'https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fuy%C3%AAn-nguy%E1%BB%85n122%2Fplaylists%2F4thanhde-latoithuong-hanh-ngoc%2F',
           speaker: persons.hy,
           author: persons.hv,
           date: '',
@@ -143,7 +143,7 @@ export default function DPA({ page, links }) {
           title: 'Sách Tứ Thánh Đế - Giọng Đọc - Hoàng Yến',
           type: mediaType.mixCloud,
           href:
-            'https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Fuy%C3%AAn-nguy%E1%BB%85n122%2Fplaylists%2Fhy-4thanhde-latoithuong%2F',
+            'https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fuy%C3%AAn-nguy%E1%BB%85n122%2Fplaylists%2Fhy-4thanhde-latoithuong%2F',
           speaker: persons.hy,
           author: persons.hv,
           date: '',
@@ -152,7 +152,7 @@ export default function DPA({ page, links }) {
           title: 'Sách Tứ Thánh Đế - Giọng Đọc - Tâm Như Hạnh',
           type: mediaType.mixCloud,
           href:
-            'https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Fuy%C3%AAn-nguy%E1%BB%85n122%2Fplaylists%2F4thanhde-latoithuong-tam-nhu-hanh%2F',
+            'https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fuy%C3%AAn-nguy%E1%BB%85n122%2Fplaylists%2F4thanhde-latoithuong-tam-nhu-hanh%2F',
           speaker: persons.hy,
           author: persons.hv,
           date: '',
@@ -161,7 +161,7 @@ export default function DPA({ page, links }) {
           title: 'Sách Tứ Thánh Đế - Giọng Đọc - Thúy Bình',
           type: mediaType.mixCloud,
           href:
-            'https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Fuy%C3%AAn-nguy%E1%BB%85n122%2Fplaylists%2F4thanhde-latoithuong-thuy-binh%2F',
+            'https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fuy%C3%AAn-nguy%E1%BB%85n122%2Fplaylists%2F4thanhde-latoithuong-thuy-binh%2F',
           speaker: persons.hy,
           author: persons.hv,
           date: '',
@@ -175,7 +175,7 @@ export default function DPA({ page, links }) {
           title: 'Nikaya - Duyên Thọ',
           type: mediaType.mixCloud,
           href:
-            'https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Fuy%C3%AAn-nguy%E1%BB%85n122%2Fplaylists%2Fduy%C3%AAn-th%E1%BB%8D%2F',
+            'https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fuy%C3%AAn-nguy%E1%BB%85n122%2Fplaylists%2Fduy%C3%AAn-th%E1%BB%8D%2F',
           speaker: persons.mn,
           author: persons.hv,
           date: '',

@@ -71,7 +71,7 @@ export function FbWrap({ title, href }) {
     </div>
   );
 }
-export function MixEmbedded({ href, width = "100%", height = "60" }) {
+export function MixEmbedded({ href, width = "100%", height = "180" }) {
   return <iframe width={width} height={height} src={href} frameborder="0" />;
 }
 
